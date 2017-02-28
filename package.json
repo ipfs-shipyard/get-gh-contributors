@@ -1,0 +1,31 @@
+{
+  "name": "get-gh-contributors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/fetch.js",
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "boom": "^4.2.0",
+    "github-contributors": "^0.4.1",
+    "github-repositories": "^3.0.0",
+    "hapi": "^16.1.0",
+    "joi": "^10.2.2",
+    "lodash": "^4.17.4",
+    "mkdirp": "^0.5.1"
+  },
+  "devDependencies": {
+    "pre-commit": "^1.2.2",
+    "standard": "^8.6.0",
+    "tape": "^4.6.3",
+    "wreck": "^10.0.0"
+  },
+  "scripts": {
+    "test": "node test/test.js",
+    "start": "node src/api/start.js"
+  },
+  "keywords": [],
+  "author": "Richard Littauer <richard.littauer@gmail.com> (http://burntfen.com)",
+  "contributors": [{ "name" : "David Dias", "email" : "daviddias@ipfs.io"
+}],
+  "license": "="
+}
