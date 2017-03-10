@@ -20,6 +20,12 @@ module.exports = (dataPath) => {
   handlers.contributors = {}
 
   handlers.contributors.get = (request, reply) => {
+    const page = request.query.page >= 0
+      ? request.query.page
+      : -1
+
+    const limit = 100
+
     const orgs = ['ipfs', 'ipld', 'libp2p', 'multiformats', 'orbitdb']
 
     const options = {
@@ -34,10 +40,26 @@ module.exports = (dataPath) => {
       return
     }
 
+    let filtered
+
     if (options.org === 'all') {
-      reply(readAndFilter(dataPath, 'protocol_labs'))
+      const users = orgs.map((org) => readAndFilter(dataPath, org))
+      const flat = [].concat.apply([], users)
+      filtered = flat
     } else {
-      reply(readAndFilter(dataPath, options.org))
+      filtered = readAndFilter(dataPath, options.org)
+    }
+
+    if (page === -1) {
+      reply(filtered)
+    } else {
+      if (page > filtered.length / limit) {
+        return reply(boom.notFound('no page with that number'))
+      }
+      const offset = page * limit
+      const slice = filtered.slice(offset, offset + 100)
+      console.log(slice.length)
+      reply(slice)
     }
   }
 

@@ -24,7 +24,7 @@
 
 ### Endpoints
 
-##### `/contributors?photo=<bool>&url=<bool>&username<bool>&org=<nameOfTheorg>`
+##### `/contributors?photo=<bool>&url=<bool>&username<bool>&org=<nameOfTheorg>&page=<number>`
 
 Returns a JSON blob containing the information about the users for a certain org.
 
@@ -34,6 +34,7 @@ Defaults:
 - url: true
 - username: true
 - org: `all`. Other options: `ipld`, `multiformats`, `ipfs`, `libp2p`, `orbitdb`.
+- page: pagination, sends arrays of 100 contributors at a time, if no value is passed, all of them are sent.
 
 ## Contribute
 

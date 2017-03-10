@@ -25,7 +25,11 @@
   },
   "keywords": [],
   "author": "Richard Littauer <richard.littauer@gmail.com> (http://burntfen.com)",
-  "contributors": [{ "name" : "David Dias", "email" : "daviddias@ipfs.io"
-}],
+  "contributors": [
+    {
+      "name": "David Dias",
+      "email": "daviddias@ipfs.io"
+    }
+  ],
   "license": "="
 }

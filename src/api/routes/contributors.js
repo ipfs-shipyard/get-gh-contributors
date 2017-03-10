@@ -14,7 +14,9 @@ module.exports = (server, dataPath) => {
           photo: Joi.string(),
           url: Joi.string(),
           username: Joi.string(),
-          org: Joi.string()
+          org: Joi.string(),
+          limit: Joi.number(),
+          page: Joi.number()
         }
       }
     }
