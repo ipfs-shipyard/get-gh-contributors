@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "login": "jbenet",
+      "id": 138401,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/138401?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/jbenet",
+      "htmlUrl": "https://github.com/jbenet",
+      "followersUrl": "https://api.github.com/users/jbenet/followers",
+      "subscriptionsUrl": "https://api.github.com/users/jbenet/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/jbenet/orgs",
+      "reposUrl": "https://api.github.com/users/jbenet/repos",
+      "receivedEventsUrl": "https://api.github.com/users/jbenet/received_events",
+      "type": "User",
+      "contributions": 7
+    }
+  ],
+  "url": "/repos/libp2p/xtp/contributors"
+}

@@ -1,0 +1,65 @@
+{
+  "items": [
+    {
+      "login": "lgierth",
+      "id": 19248,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/19248?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/lgierth",
+      "htmlUrl": "https://github.com/lgierth",
+      "followersUrl": "https://api.github.com/users/lgierth/followers",
+      "subscriptionsUrl": "https://api.github.com/users/lgierth/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/lgierth/orgs",
+      "reposUrl": "https://api.github.com/users/lgierth/repos",
+      "receivedEventsUrl": "https://api.github.com/users/lgierth/received_events",
+      "type": "User",
+      "contributions": 5
+    },
+    {
+      "login": "dignifiedquire",
+      "id": 790842,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/790842?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/dignifiedquire",
+      "htmlUrl": "https://github.com/dignifiedquire",
+      "followersUrl": "https://api.github.com/users/dignifiedquire/followers",
+      "subscriptionsUrl": "https://api.github.com/users/dignifiedquire/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/dignifiedquire/orgs",
+      "reposUrl": "https://api.github.com/users/dignifiedquire/repos",
+      "receivedEventsUrl": "https://api.github.com/users/dignifiedquire/received_events",
+      "type": "User",
+      "contributions": 2
+    },
+    {
+      "login": "davidar",
+      "id": 24291,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/24291?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/davidar",
+      "htmlUrl": "https://github.com/davidar",
+      "followersUrl": "https://api.github.com/users/davidar/followers",
+      "subscriptionsUrl": "https://api.github.com/users/davidar/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/davidar/orgs",
+      "reposUrl": "https://api.github.com/users/davidar/repos",
+      "receivedEventsUrl": "https://api.github.com/users/davidar/received_events",
+      "type": "User",
+      "contributions": 1
+    },
+    {
+      "login": "RichardLitt",
+      "id": 910753,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/910753?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/RichardLitt",
+      "htmlUrl": "https://github.com/RichardLitt",
+      "followersUrl": "https://api.github.com/users/RichardLitt/followers",
+      "subscriptionsUrl": "https://api.github.com/users/RichardLitt/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/RichardLitt/orgs",
+      "reposUrl": "https://api.github.com/users/RichardLitt/repos",
+      "receivedEventsUrl": "https://api.github.com/users/RichardLitt/received_events",
+      "type": "User",
+      "contributions": 1
+    }
+  ],
+  "url": "/repos/ipfs/refs-solarnet-storage/contributors"
+}

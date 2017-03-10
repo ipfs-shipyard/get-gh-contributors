@@ -1,0 +1,35 @@
+{
+  "items": [
+    {
+      "login": "diasdavid",
+      "id": 1211152,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1211152?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/diasdavid",
+      "htmlUrl": "https://github.com/diasdavid",
+      "followersUrl": "https://api.github.com/users/diasdavid/followers",
+      "subscriptionsUrl": "https://api.github.com/users/diasdavid/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/diasdavid/orgs",
+      "reposUrl": "https://api.github.com/users/diasdavid/repos",
+      "receivedEventsUrl": "https://api.github.com/users/diasdavid/received_events",
+      "type": "User",
+      "contributions": 2
+    },
+    {
+      "login": "kumavis",
+      "id": 1474978,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1474978?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/kumavis",
+      "htmlUrl": "https://github.com/kumavis",
+      "followersUrl": "https://api.github.com/users/kumavis/followers",
+      "subscriptionsUrl": "https://api.github.com/users/kumavis/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/kumavis/orgs",
+      "reposUrl": "https://api.github.com/users/kumavis/repos",
+      "receivedEventsUrl": "https://api.github.com/users/kumavis/received_events",
+      "type": "User",
+      "contributions": 2
+    }
+  ],
+  "url": "/repos/ipld/js-ipld-eth-tx/contributors"
+}

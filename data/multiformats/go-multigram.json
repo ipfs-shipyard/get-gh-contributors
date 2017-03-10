@@ -1,0 +1,35 @@
+{
+  "items": [
+    {
+      "login": "lgierth",
+      "id": 19248,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/19248?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/lgierth",
+      "htmlUrl": "https://github.com/lgierth",
+      "followersUrl": "https://api.github.com/users/lgierth/followers",
+      "subscriptionsUrl": "https://api.github.com/users/lgierth/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/lgierth/orgs",
+      "reposUrl": "https://api.github.com/users/lgierth/repos",
+      "receivedEventsUrl": "https://api.github.com/users/lgierth/received_events",
+      "type": "User",
+      "contributions": 3
+    },
+    {
+      "login": "RichardLitt",
+      "id": 910753,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/910753?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/RichardLitt",
+      "htmlUrl": "https://github.com/RichardLitt",
+      "followersUrl": "https://api.github.com/users/RichardLitt/followers",
+      "subscriptionsUrl": "https://api.github.com/users/RichardLitt/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/RichardLitt/orgs",
+      "reposUrl": "https://api.github.com/users/RichardLitt/repos",
+      "receivedEventsUrl": "https://api.github.com/users/RichardLitt/received_events",
+      "type": "User",
+      "contributions": 2
+    }
+  ],
+  "url": "/repos/multiformats/go-multigram/contributors"
+}

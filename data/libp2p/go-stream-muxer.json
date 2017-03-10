@@ -1,0 +1,50 @@
+{
+  "items": [
+    {
+      "login": "jbenet",
+      "id": 138401,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/138401?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/jbenet",
+      "htmlUrl": "https://github.com/jbenet",
+      "followersUrl": "https://api.github.com/users/jbenet/followers",
+      "subscriptionsUrl": "https://api.github.com/users/jbenet/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/jbenet/orgs",
+      "reposUrl": "https://api.github.com/users/jbenet/repos",
+      "receivedEventsUrl": "https://api.github.com/users/jbenet/received_events",
+      "type": "User",
+      "contributions": 20
+    },
+    {
+      "login": "whyrusleeping",
+      "id": 1243164,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1243164?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/whyrusleeping",
+      "htmlUrl": "https://github.com/whyrusleeping",
+      "followersUrl": "https://api.github.com/users/whyrusleeping/followers",
+      "subscriptionsUrl": "https://api.github.com/users/whyrusleeping/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/whyrusleeping/orgs",
+      "reposUrl": "https://api.github.com/users/whyrusleeping/repos",
+      "receivedEventsUrl": "https://api.github.com/users/whyrusleeping/received_events",
+      "type": "User",
+      "contributions": 15
+    },
+    {
+      "login": "danoctavian",
+      "id": 1534891,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1534891?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/danoctavian",
+      "htmlUrl": "https://github.com/danoctavian",
+      "followersUrl": "https://api.github.com/users/danoctavian/followers",
+      "subscriptionsUrl": "https://api.github.com/users/danoctavian/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/danoctavian/orgs",
+      "reposUrl": "https://api.github.com/users/danoctavian/repos",
+      "receivedEventsUrl": "https://api.github.com/users/danoctavian/received_events",
+      "type": "User",
+      "contributions": 1
+    }
+  ],
+  "url": "/repos/libp2p/go-stream-muxer/contributors"
+}

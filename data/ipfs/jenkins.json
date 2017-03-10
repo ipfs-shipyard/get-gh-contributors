@@ -1,0 +1,65 @@
+{
+  "items": [
+    {
+      "login": "VictorBjelkholm",
+      "id": 459764,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/459764?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/VictorBjelkholm",
+      "htmlUrl": "https://github.com/VictorBjelkholm",
+      "followersUrl": "https://api.github.com/users/VictorBjelkholm/followers",
+      "subscriptionsUrl": "https://api.github.com/users/VictorBjelkholm/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/VictorBjelkholm/orgs",
+      "reposUrl": "https://api.github.com/users/VictorBjelkholm/repos",
+      "receivedEventsUrl": "https://api.github.com/users/VictorBjelkholm/received_events",
+      "type": "User",
+      "contributions": 58
+    },
+    {
+      "login": "Kubuxu",
+      "id": 2259282,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2259282?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/Kubuxu",
+      "htmlUrl": "https://github.com/Kubuxu",
+      "followersUrl": "https://api.github.com/users/Kubuxu/followers",
+      "subscriptionsUrl": "https://api.github.com/users/Kubuxu/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/Kubuxu/orgs",
+      "reposUrl": "https://api.github.com/users/Kubuxu/repos",
+      "receivedEventsUrl": "https://api.github.com/users/Kubuxu/received_events",
+      "type": "User",
+      "contributions": 9
+    },
+    {
+      "login": "lgierth",
+      "id": 19248,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/19248?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/lgierth",
+      "htmlUrl": "https://github.com/lgierth",
+      "followersUrl": "https://api.github.com/users/lgierth/followers",
+      "subscriptionsUrl": "https://api.github.com/users/lgierth/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/lgierth/orgs",
+      "reposUrl": "https://api.github.com/users/lgierth/repos",
+      "receivedEventsUrl": "https://api.github.com/users/lgierth/received_events",
+      "type": "User",
+      "contributions": 1
+    },
+    {
+      "login": "nginnever",
+      "id": 7103153,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7103153?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/nginnever",
+      "htmlUrl": "https://github.com/nginnever",
+      "followersUrl": "https://api.github.com/users/nginnever/followers",
+      "subscriptionsUrl": "https://api.github.com/users/nginnever/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/nginnever/orgs",
+      "reposUrl": "https://api.github.com/users/nginnever/repos",
+      "receivedEventsUrl": "https://api.github.com/users/nginnever/received_events",
+      "type": "User",
+      "contributions": 1
+    }
+  ],
+  "url": "/repos/ipfs/jenkins/contributors"
+}

@@ -1,0 +1,50 @@
+{
+  "items": [
+    {
+      "login": "VictorBjelkholm",
+      "id": 459764,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/459764?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/VictorBjelkholm",
+      "htmlUrl": "https://github.com/VictorBjelkholm",
+      "followersUrl": "https://api.github.com/users/VictorBjelkholm/followers",
+      "subscriptionsUrl": "https://api.github.com/users/VictorBjelkholm/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/VictorBjelkholm/orgs",
+      "reposUrl": "https://api.github.com/users/VictorBjelkholm/repos",
+      "receivedEventsUrl": "https://api.github.com/users/VictorBjelkholm/received_events",
+      "type": "User",
+      "contributions": 3
+    },
+    {
+      "login": "RichardLitt",
+      "id": 910753,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/910753?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/RichardLitt",
+      "htmlUrl": "https://github.com/RichardLitt",
+      "followersUrl": "https://api.github.com/users/RichardLitt/followers",
+      "subscriptionsUrl": "https://api.github.com/users/RichardLitt/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/RichardLitt/orgs",
+      "reposUrl": "https://api.github.com/users/RichardLitt/repos",
+      "receivedEventsUrl": "https://api.github.com/users/RichardLitt/received_events",
+      "type": "User",
+      "contributions": 1
+    },
+    {
+      "login": "jesseclay",
+      "id": 1719763,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1719763?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/jesseclay",
+      "htmlUrl": "https://github.com/jesseclay",
+      "followersUrl": "https://api.github.com/users/jesseclay/followers",
+      "subscriptionsUrl": "https://api.github.com/users/jesseclay/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/jesseclay/orgs",
+      "reposUrl": "https://api.github.com/users/jesseclay/repos",
+      "receivedEventsUrl": "https://api.github.com/users/jesseclay/received_events",
+      "type": "User",
+      "contributions": 1
+    }
+  ],
+  "url": "/repos/ipfs/websiter/contributors"
+}

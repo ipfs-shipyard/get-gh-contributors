@@ -1,0 +1,50 @@
+{
+  "items": [
+    {
+      "login": "cboddy",
+      "id": 1190179,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1190179?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/cboddy",
+      "htmlUrl": "https://github.com/cboddy",
+      "followersUrl": "https://api.github.com/users/cboddy/followers",
+      "subscriptionsUrl": "https://api.github.com/users/cboddy/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/cboddy/orgs",
+      "reposUrl": "https://api.github.com/users/cboddy/repos",
+      "receivedEventsUrl": "https://api.github.com/users/cboddy/received_events",
+      "type": "User",
+      "contributions": 47
+    },
+    {
+      "login": "magik6k",
+      "id": 3867941,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3867941?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/magik6k",
+      "htmlUrl": "https://github.com/magik6k",
+      "followersUrl": "https://api.github.com/users/magik6k/followers",
+      "subscriptionsUrl": "https://api.github.com/users/magik6k/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/magik6k/orgs",
+      "reposUrl": "https://api.github.com/users/magik6k/repos",
+      "receivedEventsUrl": "https://api.github.com/users/magik6k/received_events",
+      "type": "User",
+      "contributions": 7
+    },
+    {
+      "login": "RichardLitt",
+      "id": 910753,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/910753?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/RichardLitt",
+      "htmlUrl": "https://github.com/RichardLitt",
+      "followersUrl": "https://api.github.com/users/RichardLitt/followers",
+      "subscriptionsUrl": "https://api.github.com/users/RichardLitt/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/RichardLitt/orgs",
+      "reposUrl": "https://api.github.com/users/RichardLitt/repos",
+      "receivedEventsUrl": "https://api.github.com/users/RichardLitt/received_events",
+      "type": "User",
+      "contributions": 1
+    }
+  ],
+  "url": "/repos/ipfs/scala-ipfs-api/contributors"
+}

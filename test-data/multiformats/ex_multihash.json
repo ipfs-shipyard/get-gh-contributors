@@ -1,0 +1,50 @@
+{
+  "items": [
+    {
+      "login": "zabirauf",
+      "id": 1104560,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1104560?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/zabirauf",
+      "htmlUrl": "https://github.com/zabirauf",
+      "followersUrl": "https://api.github.com/users/zabirauf/followers",
+      "subscriptionsUrl": "https://api.github.com/users/zabirauf/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/zabirauf/orgs",
+      "reposUrl": "https://api.github.com/users/zabirauf/repos",
+      "receivedEventsUrl": "https://api.github.com/users/zabirauf/received_events",
+      "type": "User",
+      "contributions": 14
+    },
+    {
+      "login": "RichardLitt",
+      "id": 910753,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/910753?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/RichardLitt",
+      "htmlUrl": "https://github.com/RichardLitt",
+      "followersUrl": "https://api.github.com/users/RichardLitt/followers",
+      "subscriptionsUrl": "https://api.github.com/users/RichardLitt/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/RichardLitt/orgs",
+      "reposUrl": "https://api.github.com/users/RichardLitt/repos",
+      "receivedEventsUrl": "https://api.github.com/users/RichardLitt/received_events",
+      "type": "User",
+      "contributions": 6
+    },
+    {
+      "login": "candeira",
+      "id": 91694,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/91694?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/candeira",
+      "htmlUrl": "https://github.com/candeira",
+      "followersUrl": "https://api.github.com/users/candeira/followers",
+      "subscriptionsUrl": "https://api.github.com/users/candeira/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/candeira/orgs",
+      "reposUrl": "https://api.github.com/users/candeira/repos",
+      "receivedEventsUrl": "https://api.github.com/users/candeira/received_events",
+      "type": "User",
+      "contributions": 3
+    }
+  ],
+  "url": "/repos/multiformats/ex_multihash/contributors"
+}

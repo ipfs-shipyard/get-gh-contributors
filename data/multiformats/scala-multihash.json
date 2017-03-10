@@ -1,0 +1,65 @@
+{
+  "items": [
+    {
+      "login": "parkan",
+      "id": 204986,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/204986?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/parkan",
+      "htmlUrl": "https://github.com/parkan",
+      "followersUrl": "https://api.github.com/users/parkan/followers",
+      "subscriptionsUrl": "https://api.github.com/users/parkan/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/parkan/orgs",
+      "reposUrl": "https://api.github.com/users/parkan/repos",
+      "receivedEventsUrl": "https://api.github.com/users/parkan/received_events",
+      "type": "User",
+      "contributions": 12
+    },
+    {
+      "login": "yusefnapora",
+      "id": 678715,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/678715?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/yusefnapora",
+      "htmlUrl": "https://github.com/yusefnapora",
+      "followersUrl": "https://api.github.com/users/yusefnapora/followers",
+      "subscriptionsUrl": "https://api.github.com/users/yusefnapora/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/yusefnapora/orgs",
+      "reposUrl": "https://api.github.com/users/yusefnapora/repos",
+      "receivedEventsUrl": "https://api.github.com/users/yusefnapora/received_events",
+      "type": "User",
+      "contributions": 11
+    },
+    {
+      "login": "RichardLitt",
+      "id": 910753,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/910753?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/RichardLitt",
+      "htmlUrl": "https://github.com/RichardLitt",
+      "followersUrl": "https://api.github.com/users/RichardLitt/followers",
+      "subscriptionsUrl": "https://api.github.com/users/RichardLitt/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/RichardLitt/orgs",
+      "reposUrl": "https://api.github.com/users/RichardLitt/repos",
+      "receivedEventsUrl": "https://api.github.com/users/RichardLitt/received_events",
+      "type": "User",
+      "contributions": 3
+    },
+    {
+      "login": "lgierth",
+      "id": 19248,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/19248?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/lgierth",
+      "htmlUrl": "https://github.com/lgierth",
+      "followersUrl": "https://api.github.com/users/lgierth/followers",
+      "subscriptionsUrl": "https://api.github.com/users/lgierth/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/lgierth/orgs",
+      "reposUrl": "https://api.github.com/users/lgierth/repos",
+      "receivedEventsUrl": "https://api.github.com/users/lgierth/received_events",
+      "type": "User",
+      "contributions": 1
+    }
+  ],
+  "url": "/repos/multiformats/scala-multihash/contributors"
+}

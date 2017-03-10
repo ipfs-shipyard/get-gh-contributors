@@ -1,0 +1,50 @@
+{
+  "items": [
+    {
+      "login": "whyrusleeping",
+      "id": 1243164,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1243164?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/whyrusleeping",
+      "htmlUrl": "https://github.com/whyrusleeping",
+      "followersUrl": "https://api.github.com/users/whyrusleeping/followers",
+      "subscriptionsUrl": "https://api.github.com/users/whyrusleeping/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/whyrusleeping/orgs",
+      "reposUrl": "https://api.github.com/users/whyrusleeping/repos",
+      "receivedEventsUrl": "https://api.github.com/users/whyrusleeping/received_events",
+      "type": "User",
+      "contributions": 1
+    },
+    {
+      "login": "lgierth",
+      "id": 19248,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/19248?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/lgierth",
+      "htmlUrl": "https://github.com/lgierth",
+      "followersUrl": "https://api.github.com/users/lgierth/followers",
+      "subscriptionsUrl": "https://api.github.com/users/lgierth/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/lgierth/orgs",
+      "reposUrl": "https://api.github.com/users/lgierth/repos",
+      "receivedEventsUrl": "https://api.github.com/users/lgierth/received_events",
+      "type": "User",
+      "contributions": 1
+    },
+    {
+      "login": "RichardLitt",
+      "id": 910753,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/910753?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/RichardLitt",
+      "htmlUrl": "https://github.com/RichardLitt",
+      "followersUrl": "https://api.github.com/users/RichardLitt/followers",
+      "subscriptionsUrl": "https://api.github.com/users/RichardLitt/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/RichardLitt/orgs",
+      "reposUrl": "https://api.github.com/users/RichardLitt/repos",
+      "receivedEventsUrl": "https://api.github.com/users/RichardLitt/received_events",
+      "type": "User",
+      "contributions": 1
+    }
+  ],
+  "url": "/repos/ipfs/go-ipfs-gateway/contributors"
+}

@@ -1,0 +1,35 @@
+{
+  "items": [
+    {
+      "login": "diasdavid",
+      "id": 1211152,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1211152?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/diasdavid",
+      "htmlUrl": "https://github.com/diasdavid",
+      "followersUrl": "https://api.github.com/users/diasdavid/followers",
+      "subscriptionsUrl": "https://api.github.com/users/diasdavid/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/diasdavid/orgs",
+      "reposUrl": "https://api.github.com/users/diasdavid/repos",
+      "receivedEventsUrl": "https://api.github.com/users/diasdavid/received_events",
+      "type": "User",
+      "contributions": 7
+    },
+    {
+      "login": "RichardLitt",
+      "id": 910753,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/910753?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/RichardLitt",
+      "htmlUrl": "https://github.com/RichardLitt",
+      "followersUrl": "https://api.github.com/users/RichardLitt/followers",
+      "subscriptionsUrl": "https://api.github.com/users/RichardLitt/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/RichardLitt/orgs",
+      "reposUrl": "https://api.github.com/users/RichardLitt/repos",
+      "receivedEventsUrl": "https://api.github.com/users/RichardLitt/received_events",
+      "type": "User",
+      "contributions": 3
+    }
+  ],
+  "url": "/repos/ipld/interface-ipld-format/contributors"
+}

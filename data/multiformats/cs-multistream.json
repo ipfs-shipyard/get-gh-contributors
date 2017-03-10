@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "login": "tabrath",
+      "id": 568083,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/568083?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/tabrath",
+      "htmlUrl": "https://github.com/tabrath",
+      "followersUrl": "https://api.github.com/users/tabrath/followers",
+      "subscriptionsUrl": "https://api.github.com/users/tabrath/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/tabrath/orgs",
+      "reposUrl": "https://api.github.com/users/tabrath/repos",
+      "receivedEventsUrl": "https://api.github.com/users/tabrath/received_events",
+      "type": "User",
+      "contributions": 5
+    }
+  ],
+  "url": "/repos/multiformats/cs-multistream/contributors"
+}

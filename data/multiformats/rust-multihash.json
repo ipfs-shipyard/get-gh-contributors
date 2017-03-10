@@ -1,0 +1,80 @@
+{
+  "items": [
+    {
+      "login": "dignifiedquire",
+      "id": 790842,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/790842?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/dignifiedquire",
+      "htmlUrl": "https://github.com/dignifiedquire",
+      "followersUrl": "https://api.github.com/users/dignifiedquire/followers",
+      "subscriptionsUrl": "https://api.github.com/users/dignifiedquire/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/dignifiedquire/orgs",
+      "reposUrl": "https://api.github.com/users/dignifiedquire/repos",
+      "receivedEventsUrl": "https://api.github.com/users/dignifiedquire/received_events",
+      "type": "User",
+      "contributions": 30
+    },
+    {
+      "login": "eminence",
+      "id": 402454,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/402454?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/eminence",
+      "htmlUrl": "https://github.com/eminence",
+      "followersUrl": "https://api.github.com/users/eminence/followers",
+      "subscriptionsUrl": "https://api.github.com/users/eminence/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/eminence/orgs",
+      "reposUrl": "https://api.github.com/users/eminence/repos",
+      "receivedEventsUrl": "https://api.github.com/users/eminence/received_events",
+      "type": "User",
+      "contributions": 3
+    },
+    {
+      "login": "crackcomm",
+      "id": 206368,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/206368?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/crackcomm",
+      "htmlUrl": "https://github.com/crackcomm",
+      "followersUrl": "https://api.github.com/users/crackcomm/followers",
+      "subscriptionsUrl": "https://api.github.com/users/crackcomm/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/crackcomm/orgs",
+      "reposUrl": "https://api.github.com/users/crackcomm/repos",
+      "receivedEventsUrl": "https://api.github.com/users/crackcomm/received_events",
+      "type": "User",
+      "contributions": 3
+    },
+    {
+      "login": "maciejhirsz",
+      "id": 1096222,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1096222?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/maciejhirsz",
+      "htmlUrl": "https://github.com/maciejhirsz",
+      "followersUrl": "https://api.github.com/users/maciejhirsz/followers",
+      "subscriptionsUrl": "https://api.github.com/users/maciejhirsz/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/maciejhirsz/orgs",
+      "reposUrl": "https://api.github.com/users/maciejhirsz/repos",
+      "receivedEventsUrl": "https://api.github.com/users/maciejhirsz/received_events",
+      "type": "User",
+      "contributions": 1
+    },
+    {
+      "login": "RichardLitt",
+      "id": 910753,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/910753?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/RichardLitt",
+      "htmlUrl": "https://github.com/RichardLitt",
+      "followersUrl": "https://api.github.com/users/RichardLitt/followers",
+      "subscriptionsUrl": "https://api.github.com/users/RichardLitt/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/RichardLitt/orgs",
+      "reposUrl": "https://api.github.com/users/RichardLitt/repos",
+      "receivedEventsUrl": "https://api.github.com/users/RichardLitt/received_events",
+      "type": "User",
+      "contributions": 1
+    }
+  ],
+  "url": "/repos/multiformats/rust-multihash/contributors"
+}

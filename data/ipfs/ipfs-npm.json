@@ -1,0 +1,35 @@
+{
+  "items": [
+    {
+      "login": "mappum",
+      "id": 398285,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/398285?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/mappum",
+      "htmlUrl": "https://github.com/mappum",
+      "followersUrl": "https://api.github.com/users/mappum/followers",
+      "subscriptionsUrl": "https://api.github.com/users/mappum/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/mappum/orgs",
+      "reposUrl": "https://api.github.com/users/mappum/repos",
+      "receivedEventsUrl": "https://api.github.com/users/mappum/received_events",
+      "type": "User",
+      "contributions": 13
+    },
+    {
+      "login": "RichardLitt",
+      "id": 910753,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/910753?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/RichardLitt",
+      "htmlUrl": "https://github.com/RichardLitt",
+      "followersUrl": "https://api.github.com/users/RichardLitt/followers",
+      "subscriptionsUrl": "https://api.github.com/users/RichardLitt/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/RichardLitt/orgs",
+      "reposUrl": "https://api.github.com/users/RichardLitt/repos",
+      "receivedEventsUrl": "https://api.github.com/users/RichardLitt/received_events",
+      "type": "User",
+      "contributions": 2
+    }
+  ],
+  "url": "/repos/ipfs/ipfs-npm/contributors"
+}

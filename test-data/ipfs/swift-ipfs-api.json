@@ -1,0 +1,50 @@
+{
+  "items": [
+    {
+      "login": "NeoTeo",
+      "id": 882269,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/882269?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/NeoTeo",
+      "htmlUrl": "https://github.com/NeoTeo",
+      "followersUrl": "https://api.github.com/users/NeoTeo/followers",
+      "subscriptionsUrl": "https://api.github.com/users/NeoTeo/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/NeoTeo/orgs",
+      "reposUrl": "https://api.github.com/users/NeoTeo/repos",
+      "receivedEventsUrl": "https://api.github.com/users/NeoTeo/received_events",
+      "type": "User",
+      "contributions": 85
+    },
+    {
+      "login": "whyrusleeping",
+      "id": 1243164,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1243164?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/whyrusleeping",
+      "htmlUrl": "https://github.com/whyrusleeping",
+      "followersUrl": "https://api.github.com/users/whyrusleeping/followers",
+      "subscriptionsUrl": "https://api.github.com/users/whyrusleeping/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/whyrusleeping/orgs",
+      "reposUrl": "https://api.github.com/users/whyrusleeping/repos",
+      "receivedEventsUrl": "https://api.github.com/users/whyrusleeping/received_events",
+      "type": "User",
+      "contributions": 1
+    },
+    {
+      "login": "RichardLitt",
+      "id": 910753,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/910753?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/RichardLitt",
+      "htmlUrl": "https://github.com/RichardLitt",
+      "followersUrl": "https://api.github.com/users/RichardLitt/followers",
+      "subscriptionsUrl": "https://api.github.com/users/RichardLitt/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/RichardLitt/orgs",
+      "reposUrl": "https://api.github.com/users/RichardLitt/repos",
+      "receivedEventsUrl": "https://api.github.com/users/RichardLitt/received_events",
+      "type": "User",
+      "contributions": 1
+    }
+  ],
+  "url": "/repos/ipfs/swift-ipfs-api/contributors"
+}

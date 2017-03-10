@@ -1,0 +1,65 @@
+{
+  "items": [
+    {
+      "login": "jbenet",
+      "id": 138401,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/138401?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/jbenet",
+      "htmlUrl": "https://github.com/jbenet",
+      "followersUrl": "https://api.github.com/users/jbenet/followers",
+      "subscriptionsUrl": "https://api.github.com/users/jbenet/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/jbenet/orgs",
+      "reposUrl": "https://api.github.com/users/jbenet/repos",
+      "receivedEventsUrl": "https://api.github.com/users/jbenet/received_events",
+      "type": "User",
+      "contributions": 4
+    },
+    {
+      "login": "thelinuxkid",
+      "id": 459925,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/459925?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/thelinuxkid",
+      "htmlUrl": "https://github.com/thelinuxkid",
+      "followersUrl": "https://api.github.com/users/thelinuxkid/followers",
+      "subscriptionsUrl": "https://api.github.com/users/thelinuxkid/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/thelinuxkid/orgs",
+      "reposUrl": "https://api.github.com/users/thelinuxkid/repos",
+      "receivedEventsUrl": "https://api.github.com/users/thelinuxkid/received_events",
+      "type": "User",
+      "contributions": 2
+    },
+    {
+      "login": "pguth",
+      "id": 85259,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/85259?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/pguth",
+      "htmlUrl": "https://github.com/pguth",
+      "followersUrl": "https://api.github.com/users/pguth/followers",
+      "subscriptionsUrl": "https://api.github.com/users/pguth/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/pguth/orgs",
+      "reposUrl": "https://api.github.com/users/pguth/repos",
+      "receivedEventsUrl": "https://api.github.com/users/pguth/received_events",
+      "type": "User",
+      "contributions": 2
+    },
+    {
+      "login": "RichardLitt",
+      "id": 910753,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/910753?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/RichardLitt",
+      "htmlUrl": "https://github.com/RichardLitt",
+      "followersUrl": "https://api.github.com/users/RichardLitt/followers",
+      "subscriptionsUrl": "https://api.github.com/users/RichardLitt/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/RichardLitt/orgs",
+      "reposUrl": "https://api.github.com/users/RichardLitt/repos",
+      "receivedEventsUrl": "https://api.github.com/users/RichardLitt/received_events",
+      "type": "User",
+      "contributions": 2
+    }
+  ],
+  "url": "/repos/ipfs/install-go-ipfs/contributors"
+}

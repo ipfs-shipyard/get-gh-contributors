@@ -1,0 +1,65 @@
+{
+  "items": [
+    {
+      "login": "hsanjuan",
+      "id": 1027022,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1027022?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/hsanjuan",
+      "htmlUrl": "https://github.com/hsanjuan",
+      "followersUrl": "https://api.github.com/users/hsanjuan/followers",
+      "subscriptionsUrl": "https://api.github.com/users/hsanjuan/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/hsanjuan/orgs",
+      "reposUrl": "https://api.github.com/users/hsanjuan/repos",
+      "receivedEventsUrl": "https://api.github.com/users/hsanjuan/received_events",
+      "type": "User",
+      "contributions": 113
+    },
+    {
+      "login": "whyrusleeping",
+      "id": 1243164,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1243164?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/whyrusleeping",
+      "htmlUrl": "https://github.com/whyrusleeping",
+      "followersUrl": "https://api.github.com/users/whyrusleeping/followers",
+      "subscriptionsUrl": "https://api.github.com/users/whyrusleeping/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/whyrusleeping/orgs",
+      "reposUrl": "https://api.github.com/users/whyrusleeping/repos",
+      "receivedEventsUrl": "https://api.github.com/users/whyrusleeping/received_events",
+      "type": "User",
+      "contributions": 4
+    },
+    {
+      "login": "jbenet",
+      "id": 138401,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/138401?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/jbenet",
+      "htmlUrl": "https://github.com/jbenet",
+      "followersUrl": "https://api.github.com/users/jbenet/followers",
+      "subscriptionsUrl": "https://api.github.com/users/jbenet/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/jbenet/orgs",
+      "reposUrl": "https://api.github.com/users/jbenet/repos",
+      "receivedEventsUrl": "https://api.github.com/users/jbenet/received_events",
+      "type": "User",
+      "contributions": 3
+    },
+    {
+      "login": "mateon1",
+      "id": 1754784,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1754784?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/mateon1",
+      "htmlUrl": "https://github.com/mateon1",
+      "followersUrl": "https://api.github.com/users/mateon1/followers",
+      "subscriptionsUrl": "https://api.github.com/users/mateon1/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/mateon1/orgs",
+      "reposUrl": "https://api.github.com/users/mateon1/repos",
+      "receivedEventsUrl": "https://api.github.com/users/mateon1/received_events",
+      "type": "User",
+      "contributions": 1
+    }
+  ],
+  "url": "/repos/ipfs/ipfs-cluster/contributors"
+}

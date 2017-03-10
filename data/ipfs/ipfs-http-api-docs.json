@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "login": "hsanjuan",
+      "id": 1027022,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1027022?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/hsanjuan",
+      "htmlUrl": "https://github.com/hsanjuan",
+      "followersUrl": "https://api.github.com/users/hsanjuan/followers",
+      "subscriptionsUrl": "https://api.github.com/users/hsanjuan/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/hsanjuan/orgs",
+      "reposUrl": "https://api.github.com/users/hsanjuan/repos",
+      "receivedEventsUrl": "https://api.github.com/users/hsanjuan/received_events",
+      "type": "User",
+      "contributions": 12
+    }
+  ],
+  "url": "/repos/ipfs/ipfs-http-api-docs/contributors"
+}

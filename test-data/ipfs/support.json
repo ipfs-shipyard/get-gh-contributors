@@ -1,0 +1,65 @@
+{
+  "items": [
+    {
+      "login": "RichardLitt",
+      "id": 910753,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/910753?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/RichardLitt",
+      "htmlUrl": "https://github.com/RichardLitt",
+      "followersUrl": "https://api.github.com/users/RichardLitt/followers",
+      "subscriptionsUrl": "https://api.github.com/users/RichardLitt/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/RichardLitt/orgs",
+      "reposUrl": "https://api.github.com/users/RichardLitt/repos",
+      "receivedEventsUrl": "https://api.github.com/users/RichardLitt/received_events",
+      "type": "User",
+      "contributions": 5
+    },
+    {
+      "login": "diasdavid",
+      "id": 1211152,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1211152?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/diasdavid",
+      "htmlUrl": "https://github.com/diasdavid",
+      "followersUrl": "https://api.github.com/users/diasdavid/followers",
+      "subscriptionsUrl": "https://api.github.com/users/diasdavid/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/diasdavid/orgs",
+      "reposUrl": "https://api.github.com/users/diasdavid/repos",
+      "receivedEventsUrl": "https://api.github.com/users/diasdavid/received_events",
+      "type": "User",
+      "contributions": 1
+    },
+    {
+      "login": "jbenet",
+      "id": 138401,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/138401?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/jbenet",
+      "htmlUrl": "https://github.com/jbenet",
+      "followersUrl": "https://api.github.com/users/jbenet/followers",
+      "subscriptionsUrl": "https://api.github.com/users/jbenet/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/jbenet/orgs",
+      "reposUrl": "https://api.github.com/users/jbenet/repos",
+      "receivedEventsUrl": "https://api.github.com/users/jbenet/received_events",
+      "type": "User",
+      "contributions": 1
+    },
+    {
+      "login": "ralphtheninja",
+      "id": 308049,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/308049?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/ralphtheninja",
+      "htmlUrl": "https://github.com/ralphtheninja",
+      "followersUrl": "https://api.github.com/users/ralphtheninja/followers",
+      "subscriptionsUrl": "https://api.github.com/users/ralphtheninja/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/ralphtheninja/orgs",
+      "reposUrl": "https://api.github.com/users/ralphtheninja/repos",
+      "receivedEventsUrl": "https://api.github.com/users/ralphtheninja/received_events",
+      "type": "User",
+      "contributions": 1
+    }
+  ],
+  "url": "/repos/ipfs/support/contributors"
+}

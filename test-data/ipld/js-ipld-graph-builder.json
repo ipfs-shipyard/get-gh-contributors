@@ -1,0 +1,35 @@
+{
+  "items": [
+    {
+      "login": "wanderer",
+      "id": 158211,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/158211?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/wanderer",
+      "htmlUrl": "https://github.com/wanderer",
+      "followersUrl": "https://api.github.com/users/wanderer/followers",
+      "subscriptionsUrl": "https://api.github.com/users/wanderer/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/wanderer/orgs",
+      "reposUrl": "https://api.github.com/users/wanderer/repos",
+      "receivedEventsUrl": "https://api.github.com/users/wanderer/received_events",
+      "type": "User",
+      "contributions": 80
+    },
+    {
+      "login": "greenkeeperio-bot",
+      "id": 14790466,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/14790466?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/greenkeeperio-bot",
+      "htmlUrl": "https://github.com/greenkeeperio-bot",
+      "followersUrl": "https://api.github.com/users/greenkeeperio-bot/followers",
+      "subscriptionsUrl": "https://api.github.com/users/greenkeeperio-bot/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/greenkeeperio-bot/orgs",
+      "reposUrl": "https://api.github.com/users/greenkeeperio-bot/repos",
+      "receivedEventsUrl": "https://api.github.com/users/greenkeeperio-bot/received_events",
+      "type": "User",
+      "contributions": 2
+    }
+  ],
+  "url": "/repos/ipld/js-ipld-graph-builder/contributors"
+}

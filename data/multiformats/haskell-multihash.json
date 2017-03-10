@@ -1,0 +1,65 @@
+{
+  "items": [
+    {
+      "login": "LukeHoersten",
+      "id": 743,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/743?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/LukeHoersten",
+      "htmlUrl": "https://github.com/LukeHoersten",
+      "followersUrl": "https://api.github.com/users/LukeHoersten/followers",
+      "subscriptionsUrl": "https://api.github.com/users/LukeHoersten/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/LukeHoersten/orgs",
+      "reposUrl": "https://api.github.com/users/LukeHoersten/repos",
+      "receivedEventsUrl": "https://api.github.com/users/LukeHoersten/received_events",
+      "type": "User",
+      "contributions": 11
+    },
+    {
+      "login": "RichardLitt",
+      "id": 910753,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/910753?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/RichardLitt",
+      "htmlUrl": "https://github.com/RichardLitt",
+      "followersUrl": "https://api.github.com/users/RichardLitt/followers",
+      "subscriptionsUrl": "https://api.github.com/users/RichardLitt/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/RichardLitt/orgs",
+      "reposUrl": "https://api.github.com/users/RichardLitt/repos",
+      "receivedEventsUrl": "https://api.github.com/users/RichardLitt/received_events",
+      "type": "User",
+      "contributions": 3
+    },
+    {
+      "login": "davidar",
+      "id": 24291,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/24291?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/davidar",
+      "htmlUrl": "https://github.com/davidar",
+      "followersUrl": "https://api.github.com/users/davidar/followers",
+      "subscriptionsUrl": "https://api.github.com/users/davidar/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/davidar/orgs",
+      "reposUrl": "https://api.github.com/users/davidar/repos",
+      "receivedEventsUrl": "https://api.github.com/users/davidar/received_events",
+      "type": "User",
+      "contributions": 2
+    },
+    {
+      "login": "btc",
+      "id": 734339,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/734339?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/btc",
+      "htmlUrl": "https://github.com/btc",
+      "followersUrl": "https://api.github.com/users/btc/followers",
+      "subscriptionsUrl": "https://api.github.com/users/btc/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/btc/orgs",
+      "reposUrl": "https://api.github.com/users/btc/repos",
+      "receivedEventsUrl": "https://api.github.com/users/btc/received_events",
+      "type": "User",
+      "contributions": 1
+    }
+  ],
+  "url": "/repos/multiformats/haskell-multihash/contributors"
+}

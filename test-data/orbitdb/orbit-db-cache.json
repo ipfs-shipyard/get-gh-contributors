@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "login": "haadcode",
+      "id": 7499694,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7499694?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/haadcode",
+      "htmlUrl": "https://github.com/haadcode",
+      "followersUrl": "https://api.github.com/users/haadcode/followers",
+      "subscriptionsUrl": "https://api.github.com/users/haadcode/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/haadcode/orgs",
+      "reposUrl": "https://api.github.com/users/haadcode/repos",
+      "receivedEventsUrl": "https://api.github.com/users/haadcode/received_events",
+      "type": "User",
+      "contributions": 3
+    }
+  ],
+  "url": "/repos/orbitdb/orbit-db-cache/contributors"
+}

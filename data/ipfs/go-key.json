@@ -1,0 +1,65 @@
+{
+  "items": [
+    {
+      "login": "whyrusleeping",
+      "id": 1243164,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1243164?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/whyrusleeping",
+      "htmlUrl": "https://github.com/whyrusleeping",
+      "followersUrl": "https://api.github.com/users/whyrusleeping/followers",
+      "subscriptionsUrl": "https://api.github.com/users/whyrusleeping/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/whyrusleeping/orgs",
+      "reposUrl": "https://api.github.com/users/whyrusleeping/repos",
+      "receivedEventsUrl": "https://api.github.com/users/whyrusleeping/received_events",
+      "type": "User",
+      "contributions": 12
+    },
+    {
+      "login": "geoah",
+      "id": 88447,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/88447?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/geoah",
+      "htmlUrl": "https://github.com/geoah",
+      "followersUrl": "https://api.github.com/users/geoah/followers",
+      "subscriptionsUrl": "https://api.github.com/users/geoah/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/geoah/orgs",
+      "reposUrl": "https://api.github.com/users/geoah/repos",
+      "receivedEventsUrl": "https://api.github.com/users/geoah/received_events",
+      "type": "User",
+      "contributions": 7
+    },
+    {
+      "login": "Kubuxu",
+      "id": 2259282,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2259282?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/Kubuxu",
+      "htmlUrl": "https://github.com/Kubuxu",
+      "followersUrl": "https://api.github.com/users/Kubuxu/followers",
+      "subscriptionsUrl": "https://api.github.com/users/Kubuxu/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/Kubuxu/orgs",
+      "reposUrl": "https://api.github.com/users/Kubuxu/repos",
+      "receivedEventsUrl": "https://api.github.com/users/Kubuxu/received_events",
+      "type": "User",
+      "contributions": 2
+    },
+    {
+      "login": "MichaelMure",
+      "id": 294669,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/294669?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/MichaelMure",
+      "htmlUrl": "https://github.com/MichaelMure",
+      "followersUrl": "https://api.github.com/users/MichaelMure/followers",
+      "subscriptionsUrl": "https://api.github.com/users/MichaelMure/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/MichaelMure/orgs",
+      "reposUrl": "https://api.github.com/users/MichaelMure/repos",
+      "receivedEventsUrl": "https://api.github.com/users/MichaelMure/received_events",
+      "type": "User",
+      "contributions": 1
+    }
+  ],
+  "url": "/repos/ipfs/go-key/contributors"
+}

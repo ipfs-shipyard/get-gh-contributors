@@ -1,0 +1,50 @@
+{
+  "items": [
+    {
+      "login": "krl",
+      "id": 59379,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/59379?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/krl",
+      "htmlUrl": "https://github.com/krl",
+      "followersUrl": "https://api.github.com/users/krl/followers",
+      "subscriptionsUrl": "https://api.github.com/users/krl/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/krl/orgs",
+      "reposUrl": "https://api.github.com/users/krl/repos",
+      "receivedEventsUrl": "https://api.github.com/users/krl/received_events",
+      "type": "User",
+      "contributions": 42
+    },
+    {
+      "login": "RichardLitt",
+      "id": 910753,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/910753?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/RichardLitt",
+      "htmlUrl": "https://github.com/RichardLitt",
+      "followersUrl": "https://api.github.com/users/RichardLitt/followers",
+      "subscriptionsUrl": "https://api.github.com/users/RichardLitt/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/RichardLitt/orgs",
+      "reposUrl": "https://api.github.com/users/RichardLitt/repos",
+      "receivedEventsUrl": "https://api.github.com/users/RichardLitt/received_events",
+      "type": "User",
+      "contributions": 11
+    },
+    {
+      "login": "diasdavid",
+      "id": 1211152,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1211152?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/diasdavid",
+      "htmlUrl": "https://github.com/diasdavid",
+      "followersUrl": "https://api.github.com/users/diasdavid/followers",
+      "subscriptionsUrl": "https://api.github.com/users/diasdavid/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/diasdavid/orgs",
+      "reposUrl": "https://api.github.com/users/diasdavid/repos",
+      "receivedEventsUrl": "https://api.github.com/users/diasdavid/received_events",
+      "type": "User",
+      "contributions": 6
+    }
+  ],
+  "url": "/repos/ipfs/starlog/contributors"
+}
