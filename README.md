@@ -36,6 +36,19 @@ Defaults:
 - org: `all`. Other options: `ipld`, `multiformats`, `ipfs`, `libp2p`, `orbitdb`.
 - page: pagination, sends arrays of 100 contributors at a time, if no value is passed, all of them are sent.
 
+## Deploy
+
+Make sure to have the dokku endpoint as one of your git remote
+
+```sh
+> git remote -v
+deploy  dokku@cloud.ipfs.team:contributors (fetch)
+deploy  dokku@cloud.ipfs.team:contributors (push)
+origin  git@github.com:ipfs/get-gh-contributors.git (fetch)
+origin  git@github.com:ipfs/get-gh-contributors.git (push)
+```
+
+
 ## Contribute
 
 Contributions welcome. Please check out [the issues](https://github.com/ipfs/get-gh-contributors/issues).

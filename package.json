@@ -6,6 +6,7 @@
   "dependencies": {
     "bluebird": "^3.4.7",
     "boom": "^4.2.0",
+    "debug": "^2.6.1",
     "github-contributors": "^0.4.1",
     "github-repositories": "^3.0.0",
     "hapi": "^16.1.0",
