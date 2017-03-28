@@ -12,7 +12,8 @@
     "hapi": "^16.1.0",
     "joi": "^10.2.2",
     "lodash": "^4.17.4",
-    "mkdirp": "^0.5.1"
+    "mkdirp": "^0.5.1",
+    "uniq": "^1.0.1"
   },
   "devDependencies": {
     "pre-commit": "^1.2.2",

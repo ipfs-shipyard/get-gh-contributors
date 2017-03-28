@@ -1,4 +1,5 @@
 const boom = require('boom')
+const uniq = require('uniq')
 
 function readAndFilter (dataPath, org) {
   const data = require(dataPath + '/' + org + '.json')
@@ -12,6 +13,24 @@ function readAndFilter (dataPath, org) {
   })
 
   return filtered
+}
+
+function uniqueCompare (a, b) {
+  if (a.username === b.username) {
+    return 0
+  } else {
+    return -1
+  }
+}
+
+function sortCompare (a, b) {
+  if (a.username < b.username) {
+    return -1
+  }
+  if (a.username > b.username) {
+    return 1
+  }
+  return 0
 }
 
 module.exports = (dataPath) => {
@@ -51,6 +70,7 @@ module.exports = (dataPath) => {
     }
 
     if (page === -1) {
+      uniq(filtered.sort(sortCompare), uniqueCompare, true)
       reply(filtered)
     } else {
       if (page > filtered.length / limit) {
@@ -58,7 +78,7 @@ module.exports = (dataPath) => {
       }
       const offset = page * limit
       const slice = filtered.slice(offset, offset + 100)
-      console.log(slice.length)
+      uniq(slice.sort(sortCompare), uniqueCompare, true)
       reply(slice)
     }
   }
