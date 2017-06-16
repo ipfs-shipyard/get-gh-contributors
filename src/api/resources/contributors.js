@@ -71,6 +71,7 @@ module.exports = (dataPath) => {
 
     if (page === -1) {
       uniq(filtered.sort(sortCompare), uniqueCompare, true)
+      // console.log('check total', filtered.length)
       reply(filtered)
     } else {
       if (page > filtered.length / limit) {

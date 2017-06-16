@@ -3,7 +3,7 @@
     {
       "login": "tabrath",
       "id": 568083,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/568083?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/568083?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/tabrath",
       "htmlUrl": "https://github.com/tabrath",
@@ -13,7 +13,7 @@
       "reposUrl": "https://api.github.com/users/tabrath/repos",
       "receivedEventsUrl": "https://api.github.com/users/tabrath/received_events",
       "type": "User",
-      "contributions": 4
+      "contributions": 6
     }
   ],
   "url": "/repos/libp2p/cs-libp2p-peer/contributors"

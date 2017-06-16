@@ -5,8 +5,10 @@ const writeFile = Promise.promisify(fs.writeFile)
 const mkdir = Promise.promisify(require('mkdirp'))
 const _ = require('lodash')
 const Octokat = require('octokat')
+const token = process.env.GH_TOKEN
+
 const gh = new Octokat({
-  token: token || process.env.GITHUB_OGN_TOKEN
+  token: token
 })
 
 const orgs = ['ipfs', 'ipld', 'libp2p', 'multiformats', 'orbitdb']

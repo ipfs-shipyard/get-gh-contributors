@@ -3,7 +3,7 @@
     {
       "login": "diasdavid",
       "id": 1211152,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1211152?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1211152?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/diasdavid",
       "htmlUrl": "https://github.com/diasdavid",
@@ -13,12 +13,12 @@
       "reposUrl": "https://api.github.com/users/diasdavid/repos",
       "receivedEventsUrl": "https://api.github.com/users/diasdavid/received_events",
       "type": "User",
-      "contributions": 35
+      "contributions": 45
     },
     {
       "login": "greenkeeperio-bot",
       "id": 14790466,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/14790466?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/14790466?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/greenkeeperio-bot",
       "htmlUrl": "https://github.com/greenkeeperio-bot",
@@ -28,12 +28,12 @@
       "reposUrl": "https://api.github.com/users/greenkeeperio-bot/repos",
       "receivedEventsUrl": "https://api.github.com/users/greenkeeperio-bot/received_events",
       "type": "User",
-      "contributions": 11
+      "contributions": 12
     },
     {
       "login": "dignifiedquire",
       "id": 790842,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/790842?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/790842?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/dignifiedquire",
       "htmlUrl": "https://github.com/dignifiedquire",
@@ -43,12 +43,27 @@
       "reposUrl": "https://api.github.com/users/dignifiedquire/repos",
       "receivedEventsUrl": "https://api.github.com/users/dignifiedquire/received_events",
       "type": "User",
-      "contributions": 2
+      "contributions": 5
+    },
+    {
+      "login": "dryajov",
+      "id": 1094341,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1094341?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/dryajov",
+      "htmlUrl": "https://github.com/dryajov",
+      "followersUrl": "https://api.github.com/users/dryajov/followers",
+      "subscriptionsUrl": "https://api.github.com/users/dryajov/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/dryajov/orgs",
+      "reposUrl": "https://api.github.com/users/dryajov/repos",
+      "receivedEventsUrl": "https://api.github.com/users/dryajov/received_events",
+      "type": "User",
+      "contributions": 1
     },
     {
       "login": "nunofmn",
       "id": 1160976,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1160976?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1160976?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/nunofmn",
       "htmlUrl": "https://github.com/nunofmn",
@@ -63,7 +78,7 @@
     {
       "login": "RichardLitt",
       "id": 910753,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/910753?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/910753?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/RichardLitt",
       "htmlUrl": "https://github.com/RichardLitt",

@@ -1,9 +1,24 @@
 {
   "items": [
     {
+      "login": "lgierth",
+      "id": 19248,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/19248?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/lgierth",
+      "htmlUrl": "https://github.com/lgierth",
+      "followersUrl": "https://api.github.com/users/lgierth/followers",
+      "subscriptionsUrl": "https://api.github.com/users/lgierth/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/lgierth/orgs",
+      "reposUrl": "https://api.github.com/users/lgierth/repos",
+      "receivedEventsUrl": "https://api.github.com/users/lgierth/received_events",
+      "type": "User",
+      "contributions": 3
+    },
+    {
       "login": "jbenet",
       "id": 138401,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/138401?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/138401?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/jbenet",
       "htmlUrl": "https://github.com/jbenet",
@@ -16,24 +31,9 @@
       "contributions": 3
     },
     {
-      "login": "lgierth",
-      "id": 19248,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/19248?v=3",
-      "gravatarId": "",
-      "url": "https://api.github.com/users/lgierth",
-      "htmlUrl": "https://github.com/lgierth",
-      "followersUrl": "https://api.github.com/users/lgierth/followers",
-      "subscriptionsUrl": "https://api.github.com/users/lgierth/subscriptions",
-      "organizationsUrl": "https://api.github.com/users/lgierth/orgs",
-      "reposUrl": "https://api.github.com/users/lgierth/repos",
-      "receivedEventsUrl": "https://api.github.com/users/lgierth/received_events",
-      "type": "User",
-      "contributions": 2
-    },
-    {
       "login": "RichardLitt",
       "id": 910753,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/910753?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/910753?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/RichardLitt",
       "htmlUrl": "https://github.com/RichardLitt",
@@ -48,7 +48,7 @@
     {
       "login": "dignifiedquire",
       "id": 790842,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/790842?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/790842?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/dignifiedquire",
       "htmlUrl": "https://github.com/dignifiedquire",
@@ -61,9 +61,24 @@
       "contributions": 1
     },
     {
+      "login": "jeremyBanks",
+      "id": 18020,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/18020?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/jeremyBanks",
+      "htmlUrl": "https://github.com/jeremyBanks",
+      "followersUrl": "https://api.github.com/users/jeremyBanks/followers",
+      "subscriptionsUrl": "https://api.github.com/users/jeremyBanks/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/jeremyBanks/orgs",
+      "reposUrl": "https://api.github.com/users/jeremyBanks/repos",
+      "receivedEventsUrl": "https://api.github.com/users/jeremyBanks/received_events",
+      "type": "User",
+      "contributions": 1
+    },
+    {
       "login": "deavmi",
       "id": 5207740,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5207740?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/5207740?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/deavmi",
       "htmlUrl": "https://github.com/deavmi",
@@ -78,7 +93,7 @@
     {
       "login": "Zanadar",
       "id": 5925347,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5925347?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/5925347?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/Zanadar",
       "htmlUrl": "https://github.com/Zanadar",
@@ -93,7 +108,7 @@
     {
       "login": "VictorBjelkholm",
       "id": 459764,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/459764?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/459764?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/VictorBjelkholm",
       "htmlUrl": "https://github.com/VictorBjelkholm",

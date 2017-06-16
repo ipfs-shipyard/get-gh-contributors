@@ -3,7 +3,7 @@
     {
       "login": "diasdavid",
       "id": 1211152,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1211152?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1211152?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/diasdavid",
       "htmlUrl": "https://github.com/diasdavid",
@@ -13,12 +13,12 @@
       "reposUrl": "https://api.github.com/users/diasdavid/repos",
       "receivedEventsUrl": "https://api.github.com/users/diasdavid/received_events",
       "type": "User",
-      "contributions": 153
+      "contributions": 167
     },
     {
       "login": "dignifiedquire",
       "id": 790842,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/790842?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/790842?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/dignifiedquire",
       "htmlUrl": "https://github.com/dignifiedquire",
@@ -28,12 +28,12 @@
       "reposUrl": "https://api.github.com/users/dignifiedquire/repos",
       "receivedEventsUrl": "https://api.github.com/users/dignifiedquire/received_events",
       "type": "User",
-      "contributions": 32
+      "contributions": 34
     },
     {
       "login": "greenkeeperio-bot",
       "id": 14790466,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/14790466?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/14790466?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/greenkeeperio-bot",
       "htmlUrl": "https://github.com/greenkeeperio-bot",
@@ -48,7 +48,7 @@
     {
       "login": "noffle",
       "id": 489362,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/489362?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/489362?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/noffle",
       "htmlUrl": "https://github.com/noffle",
@@ -63,7 +63,7 @@
     {
       "login": "masylum",
       "id": 28248,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/28248?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/28248?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/masylum",
       "htmlUrl": "https://github.com/masylum",
@@ -76,24 +76,24 @@
       "contributions": 3
     },
     {
-      "login": "xicombd",
+      "login": "fbaiodias",
       "id": 1211330,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1211330?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1211330?v=3",
       "gravatarId": "",
-      "url": "https://api.github.com/users/xicombd",
-      "htmlUrl": "https://github.com/xicombd",
-      "followersUrl": "https://api.github.com/users/xicombd/followers",
-      "subscriptionsUrl": "https://api.github.com/users/xicombd/subscriptions",
-      "organizationsUrl": "https://api.github.com/users/xicombd/orgs",
-      "reposUrl": "https://api.github.com/users/xicombd/repos",
-      "receivedEventsUrl": "https://api.github.com/users/xicombd/received_events",
+      "url": "https://api.github.com/users/fbaiodias",
+      "htmlUrl": "https://github.com/fbaiodias",
+      "followersUrl": "https://api.github.com/users/fbaiodias/followers",
+      "subscriptionsUrl": "https://api.github.com/users/fbaiodias/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/fbaiodias/orgs",
+      "reposUrl": "https://api.github.com/users/fbaiodias/repos",
+      "receivedEventsUrl": "https://api.github.com/users/fbaiodias/received_events",
       "type": "User",
       "contributions": 2
     },
     {
       "login": "ralphtheninja",
       "id": 308049,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/308049?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/308049?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/ralphtheninja",
       "htmlUrl": "https://github.com/ralphtheninja",
@@ -108,7 +108,7 @@
     {
       "login": "hoffmabc",
       "id": 45482,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/45482?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/45482?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/hoffmabc",
       "htmlUrl": "https://github.com/hoffmabc",
@@ -123,7 +123,7 @@
     {
       "login": "dryajov",
       "id": 1094341,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1094341?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1094341?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/dryajov",
       "htmlUrl": "https://github.com/dryajov",
@@ -136,9 +136,24 @@
       "contributions": 1
     },
     {
+      "login": "justinmchase",
+      "id": 10974,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/10974?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/justinmchase",
+      "htmlUrl": "https://github.com/justinmchase",
+      "followersUrl": "https://api.github.com/users/justinmchase/followers",
+      "subscriptionsUrl": "https://api.github.com/users/justinmchase/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/justinmchase/orgs",
+      "reposUrl": "https://api.github.com/users/justinmchase/repos",
+      "receivedEventsUrl": "https://api.github.com/users/justinmchase/received_events",
+      "type": "User",
+      "contributions": 1
+    },
+    {
       "login": "RichardLitt",
       "id": 910753,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/910753?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/910753?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/RichardLitt",
       "htmlUrl": "https://github.com/RichardLitt",
@@ -153,7 +168,7 @@
     {
       "login": "nginnever",
       "id": 7103153,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7103153?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/7103153?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/nginnever",
       "htmlUrl": "https://github.com/nginnever",
@@ -168,7 +183,7 @@
     {
       "login": "npmcdn-to-unpkg-bot",
       "id": 21348156,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/21348156?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/21348156?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/npmcdn-to-unpkg-bot",
       "htmlUrl": "https://github.com/npmcdn-to-unpkg-bot",

@@ -3,7 +3,7 @@
     {
       "login": "jbenet",
       "id": 138401,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/138401?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/138401?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/jbenet",
       "htmlUrl": "https://github.com/jbenet",
@@ -16,9 +16,24 @@
       "contributions": 4
     },
     {
+      "login": "arcalinea",
+      "id": 12245008,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/12245008?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/arcalinea",
+      "htmlUrl": "https://github.com/arcalinea",
+      "followersUrl": "https://api.github.com/users/arcalinea/followers",
+      "subscriptionsUrl": "https://api.github.com/users/arcalinea/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/arcalinea/orgs",
+      "reposUrl": "https://api.github.com/users/arcalinea/repos",
+      "receivedEventsUrl": "https://api.github.com/users/arcalinea/received_events",
+      "type": "User",
+      "contributions": 3
+    },
+    {
       "login": "flyingzumwalt",
       "id": 138930,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/138930?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/138930?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/flyingzumwalt",
       "htmlUrl": "https://github.com/flyingzumwalt",
@@ -33,7 +48,7 @@
     {
       "login": "RichardLitt",
       "id": 910753,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/910753?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/910753?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/RichardLitt",
       "htmlUrl": "https://github.com/RichardLitt",
@@ -48,7 +63,7 @@
     {
       "login": "gaconnet",
       "id": 292767,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/292767?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/292767?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/gaconnet",
       "htmlUrl": "https://github.com/gaconnet",
@@ -63,7 +78,7 @@
     {
       "login": "diasdavid",
       "id": 1211152,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1211152?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1211152?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/diasdavid",
       "htmlUrl": "https://github.com/diasdavid",
@@ -76,9 +91,24 @@
       "contributions": 1
     },
     {
+      "login": "lgierth",
+      "id": 19248,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/19248?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/lgierth",
+      "htmlUrl": "https://github.com/lgierth",
+      "followersUrl": "https://api.github.com/users/lgierth/followers",
+      "subscriptionsUrl": "https://api.github.com/users/lgierth/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/lgierth/orgs",
+      "reposUrl": "https://api.github.com/users/lgierth/repos",
+      "receivedEventsUrl": "https://api.github.com/users/lgierth/received_events",
+      "type": "User",
+      "contributions": 1
+    },
+    {
       "login": "grncdr",
       "id": 82634,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/82634?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/82634?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/grncdr",
       "htmlUrl": "https://github.com/grncdr",

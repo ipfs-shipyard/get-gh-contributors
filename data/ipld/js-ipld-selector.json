@@ -1,0 +1,35 @@
+{
+  "items": [
+    {
+      "login": "nicola",
+      "id": 1424850,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1424850?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/nicola",
+      "htmlUrl": "https://github.com/nicola",
+      "followersUrl": "https://api.github.com/users/nicola/followers",
+      "subscriptionsUrl": "https://api.github.com/users/nicola/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/nicola/orgs",
+      "reposUrl": "https://api.github.com/users/nicola/repos",
+      "receivedEventsUrl": "https://api.github.com/users/nicola/received_events",
+      "type": "User",
+      "contributions": 9
+    },
+    {
+      "login": "diasdavid",
+      "id": 1211152,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1211152?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/diasdavid",
+      "htmlUrl": "https://github.com/diasdavid",
+      "followersUrl": "https://api.github.com/users/diasdavid/followers",
+      "subscriptionsUrl": "https://api.github.com/users/diasdavid/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/diasdavid/orgs",
+      "reposUrl": "https://api.github.com/users/diasdavid/repos",
+      "receivedEventsUrl": "https://api.github.com/users/diasdavid/received_events",
+      "type": "User",
+      "contributions": 1
+    }
+  ],
+  "url": "/repos/ipld/js-ipld-selector/contributors"
+}

@@ -1,0 +1,50 @@
+{
+  "items": [
+    {
+      "login": "SidHarder",
+      "id": 1598857,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1598857?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/SidHarder",
+      "htmlUrl": "https://github.com/SidHarder",
+      "followersUrl": "https://api.github.com/users/SidHarder/followers",
+      "subscriptionsUrl": "https://api.github.com/users/SidHarder/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/SidHarder/orgs",
+      "reposUrl": "https://api.github.com/users/SidHarder/repos",
+      "receivedEventsUrl": "https://api.github.com/users/SidHarder/received_events",
+      "type": "User",
+      "contributions": 38
+    },
+    {
+      "login": "FrankPetrilli",
+      "id": 8746034,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/8746034?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/FrankPetrilli",
+      "htmlUrl": "https://github.com/FrankPetrilli",
+      "followersUrl": "https://api.github.com/users/FrankPetrilli/followers",
+      "subscriptionsUrl": "https://api.github.com/users/FrankPetrilli/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/FrankPetrilli/orgs",
+      "reposUrl": "https://api.github.com/users/FrankPetrilli/repos",
+      "receivedEventsUrl": "https://api.github.com/users/FrankPetrilli/received_events",
+      "type": "User",
+      "contributions": 6
+    },
+    {
+      "login": "jbenet",
+      "id": 138401,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/138401?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/jbenet",
+      "htmlUrl": "https://github.com/jbenet",
+      "followersUrl": "https://api.github.com/users/jbenet/followers",
+      "subscriptionsUrl": "https://api.github.com/users/jbenet/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/jbenet/orgs",
+      "reposUrl": "https://api.github.com/users/jbenet/repos",
+      "receivedEventsUrl": "https://api.github.com/users/jbenet/received_events",
+      "type": "User",
+      "contributions": 2
+    }
+  ],
+  "url": "/repos/ipfs/test-lab/contributors"
+}

@@ -3,7 +3,7 @@
     {
       "login": "dignifiedquire",
       "id": 790842,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/790842?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/790842?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/dignifiedquire",
       "htmlUrl": "https://github.com/dignifiedquire",
@@ -13,12 +13,12 @@
       "reposUrl": "https://api.github.com/users/dignifiedquire/repos",
       "receivedEventsUrl": "https://api.github.com/users/dignifiedquire/received_events",
       "type": "User",
-      "contributions": 12
+      "contributions": 15
     },
     {
       "login": "maciejhirsz",
       "id": 1096222,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1096222?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1096222?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/maciejhirsz",
       "htmlUrl": "https://github.com/maciejhirsz",
@@ -28,7 +28,22 @@
       "reposUrl": "https://api.github.com/users/maciejhirsz/repos",
       "receivedEventsUrl": "https://api.github.com/users/maciejhirsz/received_events",
       "type": "User",
-      "contributions": 3
+      "contributions": 4
+    },
+    {
+      "login": "tomusdrw",
+      "id": 581548,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/581548?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/tomusdrw",
+      "htmlUrl": "https://github.com/tomusdrw",
+      "followersUrl": "https://api.github.com/users/tomusdrw/followers",
+      "subscriptionsUrl": "https://api.github.com/users/tomusdrw/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/tomusdrw/orgs",
+      "reposUrl": "https://api.github.com/users/tomusdrw/repos",
+      "receivedEventsUrl": "https://api.github.com/users/tomusdrw/received_events",
+      "type": "User",
+      "contributions": 1
     }
   ],
   "url": "/repos/ipld/rust-cid/contributors"

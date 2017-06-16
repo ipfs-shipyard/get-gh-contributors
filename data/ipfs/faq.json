@@ -3,7 +3,7 @@
     {
       "login": "RichardLitt",
       "id": 910753,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/910753?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/910753?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/RichardLitt",
       "htmlUrl": "https://github.com/RichardLitt",
@@ -18,7 +18,7 @@
     {
       "login": "jbenet",
       "id": 138401,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/138401?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/138401?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/jbenet",
       "htmlUrl": "https://github.com/jbenet",
@@ -31,9 +31,24 @@
       "contributions": 7
     },
     {
+      "login": "flyingzumwalt",
+      "id": 138930,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/138930?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/flyingzumwalt",
+      "htmlUrl": "https://github.com/flyingzumwalt",
+      "followersUrl": "https://api.github.com/users/flyingzumwalt/followers",
+      "subscriptionsUrl": "https://api.github.com/users/flyingzumwalt/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/flyingzumwalt/orgs",
+      "reposUrl": "https://api.github.com/users/flyingzumwalt/repos",
+      "receivedEventsUrl": "https://api.github.com/users/flyingzumwalt/received_events",
+      "type": "User",
+      "contributions": 4
+    },
+    {
       "login": "davelab6",
       "id": 261579,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/261579?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/261579?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/davelab6",
       "htmlUrl": "https://github.com/davelab6",

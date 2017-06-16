@@ -3,7 +3,7 @@
     {
       "login": "diasdavid",
       "id": 1211152,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1211152?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1211152?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/diasdavid",
       "htmlUrl": "https://github.com/diasdavid",
@@ -13,12 +13,12 @@
       "reposUrl": "https://api.github.com/users/diasdavid/repos",
       "receivedEventsUrl": "https://api.github.com/users/diasdavid/received_events",
       "type": "User",
-      "contributions": 83
+      "contributions": 92
     },
     {
       "login": "jbenet",
       "id": 138401,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/138401?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/138401?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/jbenet",
       "htmlUrl": "https://github.com/jbenet",
@@ -33,7 +33,7 @@
     {
       "login": "dignifiedquire",
       "id": 790842,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/790842?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/790842?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/dignifiedquire",
       "htmlUrl": "https://github.com/dignifiedquire",
@@ -48,7 +48,7 @@
     {
       "login": "RichardLitt",
       "id": 910753,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/910753?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/910753?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/RichardLitt",
       "htmlUrl": "https://github.com/RichardLitt",
@@ -61,9 +61,24 @@
       "contributions": 3
     },
     {
+      "login": "dryajov",
+      "id": 1094341,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1094341?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/dryajov",
+      "htmlUrl": "https://github.com/dryajov",
+      "followersUrl": "https://api.github.com/users/dryajov/followers",
+      "subscriptionsUrl": "https://api.github.com/users/dryajov/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/dryajov/orgs",
+      "reposUrl": "https://api.github.com/users/dryajov/repos",
+      "receivedEventsUrl": "https://api.github.com/users/dryajov/received_events",
+      "type": "User",
+      "contributions": 2
+    },
+    {
       "login": "SidHarder",
       "id": 1598857,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1598857?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1598857?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/SidHarder",
       "htmlUrl": "https://github.com/SidHarder",
@@ -78,7 +93,7 @@
     {
       "login": "noffle",
       "id": 489362,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/489362?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/489362?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/noffle",
       "htmlUrl": "https://github.com/noffle",
@@ -91,9 +106,24 @@
       "contributions": 1
     },
     {
+      "login": "tabrath",
+      "id": 568083,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/568083?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/tabrath",
+      "htmlUrl": "https://github.com/tabrath",
+      "followersUrl": "https://api.github.com/users/tabrath/followers",
+      "subscriptionsUrl": "https://api.github.com/users/tabrath/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/tabrath/orgs",
+      "reposUrl": "https://api.github.com/users/tabrath/repos",
+      "receivedEventsUrl": "https://api.github.com/users/tabrath/received_events",
+      "type": "User",
+      "contributions": 1
+    },
+    {
       "login": "npmcdn-to-unpkg-bot",
       "id": 21348156,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/21348156?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/21348156?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/npmcdn-to-unpkg-bot",
       "htmlUrl": "https://github.com/npmcdn-to-unpkg-bot",

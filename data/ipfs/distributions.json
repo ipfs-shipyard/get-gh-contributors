@@ -3,7 +3,7 @@
     {
       "login": "whyrusleeping",
       "id": 1243164,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1243164?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1243164?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/whyrusleeping",
       "htmlUrl": "https://github.com/whyrusleeping",
@@ -13,12 +13,12 @@
       "reposUrl": "https://api.github.com/users/whyrusleeping/repos",
       "receivedEventsUrl": "https://api.github.com/users/whyrusleeping/received_events",
       "type": "User",
-      "contributions": 53
+      "contributions": 66
     },
     {
       "login": "dignifiedquire",
       "id": 790842,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/790842?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/790842?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/dignifiedquire",
       "htmlUrl": "https://github.com/dignifiedquire",
@@ -28,12 +28,12 @@
       "reposUrl": "https://api.github.com/users/dignifiedquire/repos",
       "receivedEventsUrl": "https://api.github.com/users/dignifiedquire/received_events",
       "type": "User",
-      "contributions": 51
+      "contributions": 57
     },
     {
       "login": "jbenet",
       "id": 138401,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/138401?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/138401?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/jbenet",
       "htmlUrl": "https://github.com/jbenet",
@@ -46,9 +46,24 @@
       "contributions": 30
     },
     {
+      "login": "hsanjuan",
+      "id": 1027022,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/1027022?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/hsanjuan",
+      "htmlUrl": "https://github.com/hsanjuan",
+      "followersUrl": "https://api.github.com/users/hsanjuan/followers",
+      "subscriptionsUrl": "https://api.github.com/users/hsanjuan/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/hsanjuan/orgs",
+      "reposUrl": "https://api.github.com/users/hsanjuan/repos",
+      "receivedEventsUrl": "https://api.github.com/users/hsanjuan/received_events",
+      "type": "User",
+      "contributions": 7
+    },
+    {
       "login": "diasdavid",
       "id": 1211152,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1211152?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1211152?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/diasdavid",
       "htmlUrl": "https://github.com/diasdavid",
@@ -63,7 +78,7 @@
     {
       "login": "noffle",
       "id": 489362,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/489362?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/489362?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/noffle",
       "htmlUrl": "https://github.com/noffle",
@@ -78,7 +93,7 @@
     {
       "login": "RichardLitt",
       "id": 910753,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/910753?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/910753?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/RichardLitt",
       "htmlUrl": "https://github.com/RichardLitt",
@@ -88,12 +103,27 @@
       "reposUrl": "https://api.github.com/users/RichardLitt/repos",
       "receivedEventsUrl": "https://api.github.com/users/RichardLitt/received_events",
       "type": "User",
-      "contributions": 2
+      "contributions": 5
+    },
+    {
+      "login": "Kubuxu",
+      "id": 2259282,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/2259282?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/Kubuxu",
+      "htmlUrl": "https://github.com/Kubuxu",
+      "followersUrl": "https://api.github.com/users/Kubuxu/followers",
+      "subscriptionsUrl": "https://api.github.com/users/Kubuxu/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/Kubuxu/orgs",
+      "reposUrl": "https://api.github.com/users/Kubuxu/repos",
+      "receivedEventsUrl": "https://api.github.com/users/Kubuxu/received_events",
+      "type": "User",
+      "contributions": 1
     },
     {
       "login": "greenkeeperio-bot",
       "id": 14790466,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/14790466?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/14790466?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/greenkeeperio-bot",
       "htmlUrl": "https://github.com/greenkeeperio-bot",

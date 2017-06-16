@@ -3,7 +3,7 @@
     {
       "login": "whyrusleeping",
       "id": 1243164,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1243164?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1243164?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/whyrusleeping",
       "htmlUrl": "https://github.com/whyrusleeping",
@@ -13,12 +13,27 @@
       "reposUrl": "https://api.github.com/users/whyrusleeping/repos",
       "receivedEventsUrl": "https://api.github.com/users/whyrusleeping/received_events",
       "type": "User",
-      "contributions": 16
+      "contributions": 36
+    },
+    {
+      "login": "chriscool",
+      "id": 208954,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/208954?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/chriscool",
+      "htmlUrl": "https://github.com/chriscool",
+      "followersUrl": "https://api.github.com/users/chriscool/followers",
+      "subscriptionsUrl": "https://api.github.com/users/chriscool/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/chriscool/orgs",
+      "reposUrl": "https://api.github.com/users/chriscool/repos",
+      "receivedEventsUrl": "https://api.github.com/users/chriscool/received_events",
+      "type": "User",
+      "contributions": 8
     },
     {
       "login": "jbenet",
       "id": 138401,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/138401?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/138401?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/jbenet",
       "htmlUrl": "https://github.com/jbenet",
@@ -31,9 +46,24 @@
       "contributions": 3
     },
     {
+      "login": "parkan",
+      "id": 204986,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/204986?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/parkan",
+      "htmlUrl": "https://github.com/parkan",
+      "followersUrl": "https://api.github.com/users/parkan/followers",
+      "subscriptionsUrl": "https://api.github.com/users/parkan/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/parkan/orgs",
+      "reposUrl": "https://api.github.com/users/parkan/repos",
+      "receivedEventsUrl": "https://api.github.com/users/parkan/received_events",
+      "type": "User",
+      "contributions": 1
+    },
+    {
       "login": "rht",
       "id": 395821,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/395821?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/395821?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/rht",
       "htmlUrl": "https://github.com/rht",

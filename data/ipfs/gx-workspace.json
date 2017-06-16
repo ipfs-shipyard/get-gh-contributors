@@ -3,7 +3,7 @@
     {
       "login": "lgierth",
       "id": 19248,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/19248?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/19248?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/lgierth",
       "htmlUrl": "https://github.com/lgierth",
@@ -13,12 +13,12 @@
       "reposUrl": "https://api.github.com/users/lgierth/repos",
       "receivedEventsUrl": "https://api.github.com/users/lgierth/received_events",
       "type": "User",
-      "contributions": 5
+      "contributions": 19
     },
     {
       "login": "whyrusleeping",
       "id": 1243164,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1243164?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1243164?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/whyrusleeping",
       "htmlUrl": "https://github.com/whyrusleeping",
@@ -28,7 +28,7 @@
       "reposUrl": "https://api.github.com/users/whyrusleeping/repos",
       "receivedEventsUrl": "https://api.github.com/users/whyrusleeping/received_events",
       "type": "User",
-      "contributions": 2
+      "contributions": 9
     }
   ],
   "url": "/repos/ipfs/gx-workspace/contributors"

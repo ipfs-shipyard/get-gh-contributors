@@ -1,9 +1,24 @@
 {
   "items": [
     {
+      "login": "jesseclay",
+      "id": 1719763,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1719763?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/jesseclay",
+      "htmlUrl": "https://github.com/jesseclay",
+      "followersUrl": "https://api.github.com/users/jesseclay/followers",
+      "subscriptionsUrl": "https://api.github.com/users/jesseclay/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/jesseclay/orgs",
+      "reposUrl": "https://api.github.com/users/jesseclay/repos",
+      "receivedEventsUrl": "https://api.github.com/users/jesseclay/received_events",
+      "type": "User",
+      "contributions": 35
+    },
+    {
       "login": "diasdavid",
       "id": 1211152,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1211152?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1211152?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/diasdavid",
       "htmlUrl": "https://github.com/diasdavid",
@@ -13,12 +28,12 @@
       "reposUrl": "https://api.github.com/users/diasdavid/repos",
       "receivedEventsUrl": "https://api.github.com/users/diasdavid/received_events",
       "type": "User",
-      "contributions": 13
+      "contributions": 27
     },
     {
       "login": "VictorBjelkholm",
       "id": 459764,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/459764?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/459764?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/VictorBjelkholm",
       "htmlUrl": "https://github.com/VictorBjelkholm",
@@ -31,9 +46,54 @@
       "contributions": 13
     },
     {
+      "login": "lgierth",
+      "id": 19248,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/19248?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/lgierth",
+      "htmlUrl": "https://github.com/lgierth",
+      "followersUrl": "https://api.github.com/users/lgierth/followers",
+      "subscriptionsUrl": "https://api.github.com/users/lgierth/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/lgierth/orgs",
+      "reposUrl": "https://api.github.com/users/lgierth/repos",
+      "receivedEventsUrl": "https://api.github.com/users/lgierth/received_events",
+      "type": "User",
+      "contributions": 2
+    },
+    {
+      "login": "kolpin",
+      "id": 6112104,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/6112104?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/kolpin",
+      "htmlUrl": "https://github.com/kolpin",
+      "followersUrl": "https://api.github.com/users/kolpin/followers",
+      "subscriptionsUrl": "https://api.github.com/users/kolpin/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/kolpin/orgs",
+      "reposUrl": "https://api.github.com/users/kolpin/repos",
+      "receivedEventsUrl": "https://api.github.com/users/kolpin/received_events",
+      "type": "User",
+      "contributions": 1
+    },
+    {
+      "login": "whyrusleeping",
+      "id": 1243164,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1243164?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/whyrusleeping",
+      "htmlUrl": "https://github.com/whyrusleeping",
+      "followersUrl": "https://api.github.com/users/whyrusleeping/followers",
+      "subscriptionsUrl": "https://api.github.com/users/whyrusleeping/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/whyrusleeping/orgs",
+      "reposUrl": "https://api.github.com/users/whyrusleeping/repos",
+      "receivedEventsUrl": "https://api.github.com/users/whyrusleeping/received_events",
+      "type": "User",
+      "contributions": 1
+    },
+    {
       "login": "kyledrake",
       "id": 28153,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/28153?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/28153?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/kyledrake",
       "htmlUrl": "https://github.com/kyledrake",
@@ -48,7 +108,7 @@
     {
       "login": "RichardLitt",
       "id": 910753,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/910753?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/910753?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/RichardLitt",
       "htmlUrl": "https://github.com/RichardLitt",

@@ -1,4 +1,20 @@
 {
-  "items": [],
+  "items": [
+    {
+      "login": "MCGPPeters",
+      "id": 3175802,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/3175802?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/MCGPPeters",
+      "htmlUrl": "https://github.com/MCGPPeters",
+      "followersUrl": "https://api.github.com/users/MCGPPeters/followers",
+      "subscriptionsUrl": "https://api.github.com/users/MCGPPeters/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/MCGPPeters/orgs",
+      "reposUrl": "https://api.github.com/users/MCGPPeters/repos",
+      "receivedEventsUrl": "https://api.github.com/users/MCGPPeters/received_events",
+      "type": "User",
+      "contributions": 34
+    }
+  ],
   "url": "/repos/multiformats/MultiHash.Net/contributors"
 }

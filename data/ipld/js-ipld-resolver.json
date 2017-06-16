@@ -3,7 +3,7 @@
     {
       "login": "diasdavid",
       "id": 1211152,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1211152?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1211152?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/diasdavid",
       "htmlUrl": "https://github.com/diasdavid",
@@ -13,12 +13,12 @@
       "reposUrl": "https://api.github.com/users/diasdavid/repos",
       "receivedEventsUrl": "https://api.github.com/users/diasdavid/received_events",
       "type": "User",
-      "contributions": 64
+      "contributions": 80
     },
     {
       "login": "dignifiedquire",
       "id": 790842,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/790842?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/790842?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/dignifiedquire",
       "htmlUrl": "https://github.com/dignifiedquire",
@@ -33,7 +33,7 @@
     {
       "login": "nicola",
       "id": 1424850,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1424850?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1424850?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/nicola",
       "htmlUrl": "https://github.com/nicola",
@@ -48,7 +48,7 @@
     {
       "login": "greenkeeperio-bot",
       "id": 14790466,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/14790466?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/14790466?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/greenkeeperio-bot",
       "htmlUrl": "https://github.com/greenkeeperio-bot",
@@ -61,9 +61,24 @@
       "contributions": 2
     },
     {
+      "login": "kumavis",
+      "id": 1474978,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1474978?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/kumavis",
+      "htmlUrl": "https://github.com/kumavis",
+      "followersUrl": "https://api.github.com/users/kumavis/followers",
+      "subscriptionsUrl": "https://api.github.com/users/kumavis/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/kumavis/orgs",
+      "reposUrl": "https://api.github.com/users/kumavis/repos",
+      "receivedEventsUrl": "https://api.github.com/users/kumavis/received_events",
+      "type": "User",
+      "contributions": 2
+    },
+    {
       "login": "RichardLitt",
       "id": 910753,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/910753?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/910753?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/RichardLitt",
       "htmlUrl": "https://github.com/RichardLitt",
@@ -76,24 +91,9 @@
       "contributions": 1
     },
     {
-      "login": "kumavis",
-      "id": 1474978,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1474978?v=3",
-      "gravatarId": "",
-      "url": "https://api.github.com/users/kumavis",
-      "htmlUrl": "https://github.com/kumavis",
-      "followersUrl": "https://api.github.com/users/kumavis/followers",
-      "subscriptionsUrl": "https://api.github.com/users/kumavis/subscriptions",
-      "organizationsUrl": "https://api.github.com/users/kumavis/orgs",
-      "reposUrl": "https://api.github.com/users/kumavis/repos",
-      "receivedEventsUrl": "https://api.github.com/users/kumavis/received_events",
-      "type": "User",
-      "contributions": 1
-    },
-    {
       "login": "wanderer",
       "id": 158211,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/158211?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/158211?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/wanderer",
       "htmlUrl": "https://github.com/wanderer",

@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "login": "magik6k",
+      "id": 3867941,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/3867941?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/magik6k",
+      "htmlUrl": "https://github.com/magik6k",
+      "followersUrl": "https://api.github.com/users/magik6k/followers",
+      "subscriptionsUrl": "https://api.github.com/users/magik6k/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/magik6k/orgs",
+      "reposUrl": "https://api.github.com/users/magik6k/repos",
+      "receivedEventsUrl": "https://api.github.com/users/magik6k/received_events",
+      "type": "User",
+      "contributions": 5
+    }
+  ],
+  "url": "/repos/ipfs/go-ds-badger/contributors"
+}

@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "login": "keks",
+      "id": 146678,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/146678?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/keks",
+      "htmlUrl": "https://github.com/keks",
+      "followersUrl": "https://api.github.com/users/keks/followers",
+      "subscriptionsUrl": "https://api.github.com/users/keks/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/keks/orgs",
+      "reposUrl": "https://api.github.com/users/keks/repos",
+      "receivedEventsUrl": "https://api.github.com/users/keks/received_events",
+      "type": "User",
+      "contributions": 16
+    }
+  ],
+  "url": "/repos/ipfs/go-ipfs-cmdkit/contributors"
+}

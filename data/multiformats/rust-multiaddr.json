@@ -3,7 +3,7 @@
     {
       "login": "dignifiedquire",
       "id": 790842,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/790842?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/790842?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/dignifiedquire",
       "htmlUrl": "https://github.com/dignifiedquire",
@@ -13,12 +13,12 @@
       "reposUrl": "https://api.github.com/users/dignifiedquire/repos",
       "receivedEventsUrl": "https://api.github.com/users/dignifiedquire/received_events",
       "type": "User",
-      "contributions": 55
+      "contributions": 60
     },
     {
       "login": "RichardLitt",
       "id": 910753,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/910753?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/910753?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/RichardLitt",
       "htmlUrl": "https://github.com/RichardLitt",
@@ -33,7 +33,7 @@
     {
       "login": "ProgVal",
       "id": 406946,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/406946?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/406946?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/ProgVal",
       "htmlUrl": "https://github.com/ProgVal",
@@ -44,6 +44,21 @@
       "receivedEventsUrl": "https://api.github.com/users/ProgVal/received_events",
       "type": "User",
       "contributions": 2
+    },
+    {
+      "login": "maciejhirsz",
+      "id": 1096222,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1096222?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/maciejhirsz",
+      "htmlUrl": "https://github.com/maciejhirsz",
+      "followersUrl": "https://api.github.com/users/maciejhirsz/followers",
+      "subscriptionsUrl": "https://api.github.com/users/maciejhirsz/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/maciejhirsz/orgs",
+      "reposUrl": "https://api.github.com/users/maciejhirsz/repos",
+      "receivedEventsUrl": "https://api.github.com/users/maciejhirsz/received_events",
+      "type": "User",
+      "contributions": 1
     }
   ],
   "url": "/repos/multiformats/rust-multiaddr/contributors"

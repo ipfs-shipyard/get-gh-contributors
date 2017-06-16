@@ -1,0 +1,65 @@
+{
+  "items": [
+    {
+      "login": "lidel",
+      "id": 157609,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/157609?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/lidel",
+      "htmlUrl": "https://github.com/lidel",
+      "followersUrl": "https://api.github.com/users/lidel/followers",
+      "subscriptionsUrl": "https://api.github.com/users/lidel/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/lidel/orgs",
+      "reposUrl": "https://api.github.com/users/lidel/repos",
+      "receivedEventsUrl": "https://api.github.com/users/lidel/received_events",
+      "type": "User",
+      "contributions": 333
+    },
+    {
+      "login": "greenkeeperio-bot",
+      "id": 14790466,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/14790466?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/greenkeeperio-bot",
+      "htmlUrl": "https://github.com/greenkeeperio-bot",
+      "followersUrl": "https://api.github.com/users/greenkeeperio-bot/followers",
+      "subscriptionsUrl": "https://api.github.com/users/greenkeeperio-bot/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/greenkeeperio-bot/orgs",
+      "reposUrl": "https://api.github.com/users/greenkeeperio-bot/repos",
+      "receivedEventsUrl": "https://api.github.com/users/greenkeeperio-bot/received_events",
+      "type": "User",
+      "contributions": 33
+    },
+    {
+      "login": "the8472",
+      "id": 1065730,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1065730?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/the8472",
+      "htmlUrl": "https://github.com/the8472",
+      "followersUrl": "https://api.github.com/users/the8472/followers",
+      "subscriptionsUrl": "https://api.github.com/users/the8472/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/the8472/orgs",
+      "reposUrl": "https://api.github.com/users/the8472/repos",
+      "receivedEventsUrl": "https://api.github.com/users/the8472/received_events",
+      "type": "User",
+      "contributions": 9
+    },
+    {
+      "login": "sonatagreen",
+      "id": 14856568,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/14856568?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/sonatagreen",
+      "htmlUrl": "https://github.com/sonatagreen",
+      "followersUrl": "https://api.github.com/users/sonatagreen/followers",
+      "subscriptionsUrl": "https://api.github.com/users/sonatagreen/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/sonatagreen/orgs",
+      "reposUrl": "https://api.github.com/users/sonatagreen/repos",
+      "receivedEventsUrl": "https://api.github.com/users/sonatagreen/received_events",
+      "type": "User",
+      "contributions": 2
+    }
+  ],
+  "url": "/repos/ipfs/ipfs-companion/contributors"
+}

@@ -3,7 +3,7 @@
     {
       "login": "diasdavid",
       "id": 1211152,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1211152?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1211152?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/diasdavid",
       "htmlUrl": "https://github.com/diasdavid",
@@ -13,12 +13,27 @@
       "reposUrl": "https://api.github.com/users/diasdavid/repos",
       "receivedEventsUrl": "https://api.github.com/users/diasdavid/received_events",
       "type": "User",
-      "contributions": 18
+      "contributions": 22
+    },
+    {
+      "login": "haadcode",
+      "id": 7499694,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/7499694?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/haadcode",
+      "htmlUrl": "https://github.com/haadcode",
+      "followersUrl": "https://api.github.com/users/haadcode/followers",
+      "subscriptionsUrl": "https://api.github.com/users/haadcode/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/haadcode/orgs",
+      "reposUrl": "https://api.github.com/users/haadcode/repos",
+      "receivedEventsUrl": "https://api.github.com/users/haadcode/received_events",
+      "type": "User",
+      "contributions": 3
     },
     {
       "login": "edsilv",
       "id": 1334393,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1334393?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/1334393?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/edsilv",
       "htmlUrl": "https://github.com/edsilv",
@@ -33,7 +48,7 @@
     {
       "login": "dignifiedquire",
       "id": 790842,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/790842?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/790842?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/dignifiedquire",
       "htmlUrl": "https://github.com/dignifiedquire",
@@ -46,24 +61,9 @@
       "contributions": 1
     },
     {
-      "login": "haadcode",
-      "id": 7499694,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7499694?v=3",
-      "gravatarId": "",
-      "url": "https://api.github.com/users/haadcode",
-      "htmlUrl": "https://github.com/haadcode",
-      "followersUrl": "https://api.github.com/users/haadcode/followers",
-      "subscriptionsUrl": "https://api.github.com/users/haadcode/subscriptions",
-      "organizationsUrl": "https://api.github.com/users/haadcode/orgs",
-      "reposUrl": "https://api.github.com/users/haadcode/repos",
-      "receivedEventsUrl": "https://api.github.com/users/haadcode/received_events",
-      "type": "User",
-      "contributions": 1
-    },
-    {
       "login": "harlantwood",
       "id": 38769,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/38769?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/38769?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/harlantwood",
       "htmlUrl": "https://github.com/harlantwood",
@@ -78,7 +78,7 @@
     {
       "login": "scott113341",
       "id": 1910118,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1910118?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/1910118?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/scott113341",
       "htmlUrl": "https://github.com/scott113341",
@@ -93,7 +93,7 @@
     {
       "login": "noffle",
       "id": 489362,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/489362?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/489362?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/noffle",
       "htmlUrl": "https://github.com/noffle",

@@ -3,7 +3,7 @@
     {
       "login": "dignifiedquire",
       "id": 790842,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/790842?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/790842?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/dignifiedquire",
       "htmlUrl": "https://github.com/dignifiedquire",
@@ -13,12 +13,12 @@
       "reposUrl": "https://api.github.com/users/dignifiedquire/repos",
       "receivedEventsUrl": "https://api.github.com/users/dignifiedquire/received_events",
       "type": "User",
-      "contributions": 30
+      "contributions": 36
     },
     {
       "login": "eminence",
       "id": 402454,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/402454?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/402454?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/eminence",
       "htmlUrl": "https://github.com/eminence",
@@ -31,9 +31,24 @@
       "contributions": 3
     },
     {
+      "login": "briansmith",
+      "id": 16816,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/16816?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/briansmith",
+      "htmlUrl": "https://github.com/briansmith",
+      "followersUrl": "https://api.github.com/users/briansmith/followers",
+      "subscriptionsUrl": "https://api.github.com/users/briansmith/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/briansmith/orgs",
+      "reposUrl": "https://api.github.com/users/briansmith/repos",
+      "receivedEventsUrl": "https://api.github.com/users/briansmith/received_events",
+      "type": "User",
+      "contributions": 3
+    },
+    {
       "login": "crackcomm",
       "id": 206368,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/206368?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/206368?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/crackcomm",
       "htmlUrl": "https://github.com/crackcomm",
@@ -48,7 +63,7 @@
     {
       "login": "maciejhirsz",
       "id": 1096222,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1096222?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1096222?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/maciejhirsz",
       "htmlUrl": "https://github.com/maciejhirsz",
@@ -61,9 +76,39 @@
       "contributions": 1
     },
     {
+      "login": "debris",
+      "id": 2613714,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/2613714?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/debris",
+      "htmlUrl": "https://github.com/debris",
+      "followersUrl": "https://api.github.com/users/debris/followers",
+      "subscriptionsUrl": "https://api.github.com/users/debris/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/debris/orgs",
+      "reposUrl": "https://api.github.com/users/debris/repos",
+      "receivedEventsUrl": "https://api.github.com/users/debris/received_events",
+      "type": "User",
+      "contributions": 1
+    },
+    {
+      "login": "michaelsproul",
+      "id": 4452260,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/4452260?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/michaelsproul",
+      "htmlUrl": "https://github.com/michaelsproul",
+      "followersUrl": "https://api.github.com/users/michaelsproul/followers",
+      "subscriptionsUrl": "https://api.github.com/users/michaelsproul/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/michaelsproul/orgs",
+      "reposUrl": "https://api.github.com/users/michaelsproul/repos",
+      "receivedEventsUrl": "https://api.github.com/users/michaelsproul/received_events",
+      "type": "User",
+      "contributions": 1
+    },
+    {
       "login": "RichardLitt",
       "id": 910753,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/910753?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/910753?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/RichardLitt",
       "htmlUrl": "https://github.com/RichardLitt",
@@ -72,6 +117,21 @@
       "organizationsUrl": "https://api.github.com/users/RichardLitt/orgs",
       "reposUrl": "https://api.github.com/users/RichardLitt/repos",
       "receivedEventsUrl": "https://api.github.com/users/RichardLitt/received_events",
+      "type": "User",
+      "contributions": 1
+    },
+    {
+      "login": "tomusdrw",
+      "id": 581548,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/581548?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/tomusdrw",
+      "htmlUrl": "https://github.com/tomusdrw",
+      "followersUrl": "https://api.github.com/users/tomusdrw/followers",
+      "subscriptionsUrl": "https://api.github.com/users/tomusdrw/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/tomusdrw/orgs",
+      "reposUrl": "https://api.github.com/users/tomusdrw/repos",
+      "receivedEventsUrl": "https://api.github.com/users/tomusdrw/received_events",
       "type": "User",
       "contributions": 1
     }

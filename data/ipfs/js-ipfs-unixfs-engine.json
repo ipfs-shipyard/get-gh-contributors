@@ -3,7 +3,7 @@
     {
       "login": "diasdavid",
       "id": 1211152,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1211152?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1211152?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/diasdavid",
       "htmlUrl": "https://github.com/diasdavid",
@@ -13,12 +13,12 @@
       "reposUrl": "https://api.github.com/users/diasdavid/repos",
       "receivedEventsUrl": "https://api.github.com/users/diasdavid/received_events",
       "type": "User",
-      "contributions": 162
+      "contributions": 178
     },
     {
       "login": "greenkeeperio-bot",
       "id": 14790466,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/14790466?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/14790466?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/greenkeeperio-bot",
       "htmlUrl": "https://github.com/greenkeeperio-bot",
@@ -33,7 +33,7 @@
     {
       "login": "noffle",
       "id": 489362,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/489362?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/489362?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/noffle",
       "htmlUrl": "https://github.com/noffle",
@@ -48,7 +48,7 @@
     {
       "login": "dignifiedquire",
       "id": 790842,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/790842?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/790842?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/dignifiedquire",
       "htmlUrl": "https://github.com/dignifiedquire",
@@ -58,12 +58,12 @@
       "reposUrl": "https://api.github.com/users/dignifiedquire/repos",
       "receivedEventsUrl": "https://api.github.com/users/dignifiedquire/received_events",
       "type": "User",
-      "contributions": 19
+      "contributions": 20
     },
     {
       "login": "nginnever",
       "id": 7103153,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7103153?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/7103153?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/nginnever",
       "htmlUrl": "https://github.com/nginnever",
@@ -78,7 +78,7 @@
     {
       "login": "pgte",
       "id": 47910,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/47910?v=3",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/47910?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/pgte",
       "htmlUrl": "https://github.com/pgte",
@@ -88,27 +88,27 @@
       "reposUrl": "https://api.github.com/users/pgte/repos",
       "receivedEventsUrl": "https://api.github.com/users/pgte/received_events",
       "type": "User",
-      "contributions": 5
+      "contributions": 11
     },
     {
-      "login": "xicombd",
+      "login": "fbaiodias",
       "id": 1211330,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1211330?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1211330?v=3",
       "gravatarId": "",
-      "url": "https://api.github.com/users/xicombd",
-      "htmlUrl": "https://github.com/xicombd",
-      "followersUrl": "https://api.github.com/users/xicombd/followers",
-      "subscriptionsUrl": "https://api.github.com/users/xicombd/subscriptions",
-      "organizationsUrl": "https://api.github.com/users/xicombd/orgs",
-      "reposUrl": "https://api.github.com/users/xicombd/repos",
-      "receivedEventsUrl": "https://api.github.com/users/xicombd/received_events",
+      "url": "https://api.github.com/users/fbaiodias",
+      "htmlUrl": "https://github.com/fbaiodias",
+      "followersUrl": "https://api.github.com/users/fbaiodias/followers",
+      "subscriptionsUrl": "https://api.github.com/users/fbaiodias/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/fbaiodias/orgs",
+      "reposUrl": "https://api.github.com/users/fbaiodias/repos",
+      "receivedEventsUrl": "https://api.github.com/users/fbaiodias/received_events",
       "type": "User",
       "contributions": 1
     },
     {
       "login": "RichardLitt",
       "id": 910753,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/910753?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/910753?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/RichardLitt",
       "htmlUrl": "https://github.com/RichardLitt",
@@ -123,7 +123,7 @@
     {
       "login": "jbenet",
       "id": 138401,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/138401?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/138401?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/jbenet",
       "htmlUrl": "https://github.com/jbenet",

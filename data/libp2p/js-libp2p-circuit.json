@@ -1,0 +1,35 @@
+{
+  "items": [
+    {
+      "login": "dryajov",
+      "id": 1094341,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1094341?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/dryajov",
+      "htmlUrl": "https://github.com/dryajov",
+      "followersUrl": "https://api.github.com/users/dryajov/followers",
+      "subscriptionsUrl": "https://api.github.com/users/dryajov/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/dryajov/orgs",
+      "reposUrl": "https://api.github.com/users/dryajov/repos",
+      "receivedEventsUrl": "https://api.github.com/users/dryajov/received_events",
+      "type": "User",
+      "contributions": 1
+    },
+    {
+      "login": "dignifiedquire",
+      "id": 790842,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/790842?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/dignifiedquire",
+      "htmlUrl": "https://github.com/dignifiedquire",
+      "followersUrl": "https://api.github.com/users/dignifiedquire/followers",
+      "subscriptionsUrl": "https://api.github.com/users/dignifiedquire/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/dignifiedquire/orgs",
+      "reposUrl": "https://api.github.com/users/dignifiedquire/repos",
+      "receivedEventsUrl": "https://api.github.com/users/dignifiedquire/received_events",
+      "type": "User",
+      "contributions": 1
+    }
+  ],
+  "url": "/repos/libp2p/js-libp2p-circuit/contributors"
+}

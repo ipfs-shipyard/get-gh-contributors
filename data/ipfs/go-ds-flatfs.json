@@ -3,7 +3,7 @@
     {
       "login": "whyrusleeping",
       "id": 1243164,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1243164?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1243164?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/whyrusleeping",
       "htmlUrl": "https://github.com/whyrusleeping",
@@ -13,12 +13,12 @@
       "reposUrl": "https://api.github.com/users/whyrusleeping/repos",
       "receivedEventsUrl": "https://api.github.com/users/whyrusleeping/received_events",
       "type": "User",
-      "contributions": 38
+      "contributions": 42
     },
     {
       "login": "kevina",
       "id": 1271492,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1271492?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/1271492?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/kevina",
       "htmlUrl": "https://github.com/kevina",
@@ -28,12 +28,27 @@
       "reposUrl": "https://api.github.com/users/kevina/repos",
       "receivedEventsUrl": "https://api.github.com/users/kevina/received_events",
       "type": "User",
-      "contributions": 34
+      "contributions": 35
+    },
+    {
+      "login": "Kubuxu",
+      "id": 2259282,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/2259282?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/Kubuxu",
+      "htmlUrl": "https://github.com/Kubuxu",
+      "followersUrl": "https://api.github.com/users/Kubuxu/followers",
+      "subscriptionsUrl": "https://api.github.com/users/Kubuxu/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/Kubuxu/orgs",
+      "reposUrl": "https://api.github.com/users/Kubuxu/repos",
+      "receivedEventsUrl": "https://api.github.com/users/Kubuxu/received_events",
+      "type": "User",
+      "contributions": 11
     },
     {
       "login": "tv42",
       "id": 419909,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/419909?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/419909?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/tv42",
       "htmlUrl": "https://github.com/tv42",
@@ -46,24 +61,9 @@
       "contributions": 11
     },
     {
-      "login": "Kubuxu",
-      "id": 2259282,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2259282?v=3",
-      "gravatarId": "",
-      "url": "https://api.github.com/users/Kubuxu",
-      "htmlUrl": "https://github.com/Kubuxu",
-      "followersUrl": "https://api.github.com/users/Kubuxu/followers",
-      "subscriptionsUrl": "https://api.github.com/users/Kubuxu/subscriptions",
-      "organizationsUrl": "https://api.github.com/users/Kubuxu/orgs",
-      "reposUrl": "https://api.github.com/users/Kubuxu/repos",
-      "receivedEventsUrl": "https://api.github.com/users/Kubuxu/received_events",
-      "type": "User",
-      "contributions": 9
-    },
-    {
       "login": "jbenet",
       "id": 138401,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/138401?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/138401?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/jbenet",
       "htmlUrl": "https://github.com/jbenet",
@@ -78,7 +78,7 @@
     {
       "login": "rikonor",
       "id": 3395638,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/3395638?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/3395638?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/rikonor",
       "htmlUrl": "https://github.com/rikonor",
@@ -91,9 +91,24 @@
       "contributions": 1
     },
     {
+      "login": "kpcyrd",
+      "id": 7763184,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/7763184?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/kpcyrd",
+      "htmlUrl": "https://github.com/kpcyrd",
+      "followersUrl": "https://api.github.com/users/kpcyrd/followers",
+      "subscriptionsUrl": "https://api.github.com/users/kpcyrd/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/kpcyrd/orgs",
+      "reposUrl": "https://api.github.com/users/kpcyrd/repos",
+      "receivedEventsUrl": "https://api.github.com/users/kpcyrd/received_events",
+      "type": "User",
+      "contributions": 1
+    },
+    {
       "login": "rht",
       "id": 395821,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/395821?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/395821?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/rht",
       "htmlUrl": "https://github.com/rht",

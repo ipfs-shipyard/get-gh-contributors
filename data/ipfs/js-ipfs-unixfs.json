@@ -3,7 +3,7 @@
     {
       "login": "diasdavid",
       "id": 1211152,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1211152?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1211152?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/diasdavid",
       "htmlUrl": "https://github.com/diasdavid",
@@ -13,12 +13,12 @@
       "reposUrl": "https://api.github.com/users/diasdavid/repos",
       "receivedEventsUrl": "https://api.github.com/users/diasdavid/received_events",
       "type": "User",
-      "contributions": 34
+      "contributions": 36
     },
     {
       "login": "dignifiedquire",
       "id": 790842,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/790842?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/790842?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/dignifiedquire",
       "htmlUrl": "https://github.com/dignifiedquire",
@@ -33,7 +33,7 @@
     {
       "login": "JGAntunes",
       "id": 5799039,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5799039?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/5799039?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/JGAntunes",
       "htmlUrl": "https://github.com/JGAntunes",
@@ -48,7 +48,7 @@
     {
       "login": "Mithgol",
       "id": 1088720,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1088720?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/1088720?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/Mithgol",
       "htmlUrl": "https://github.com/Mithgol",
@@ -61,9 +61,24 @@
       "contributions": 1
     },
     {
+      "login": "pgte",
+      "id": 47910,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/47910?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/pgte",
+      "htmlUrl": "https://github.com/pgte",
+      "followersUrl": "https://api.github.com/users/pgte/followers",
+      "subscriptionsUrl": "https://api.github.com/users/pgte/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/pgte/orgs",
+      "reposUrl": "https://api.github.com/users/pgte/repos",
+      "receivedEventsUrl": "https://api.github.com/users/pgte/received_events",
+      "type": "User",
+      "contributions": 1
+    },
+    {
       "login": "RichardLitt",
       "id": 910753,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/910753?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/910753?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/RichardLitt",
       "htmlUrl": "https://github.com/RichardLitt",

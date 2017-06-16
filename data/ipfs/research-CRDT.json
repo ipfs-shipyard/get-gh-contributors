@@ -1,0 +1,35 @@
+{
+  "items": [
+    {
+      "login": "diasdavid",
+      "id": 1211152,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1211152?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/diasdavid",
+      "htmlUrl": "https://github.com/diasdavid",
+      "followersUrl": "https://api.github.com/users/diasdavid/followers",
+      "subscriptionsUrl": "https://api.github.com/users/diasdavid/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/diasdavid/orgs",
+      "reposUrl": "https://api.github.com/users/diasdavid/repos",
+      "receivedEventsUrl": "https://api.github.com/users/diasdavid/received_events",
+      "type": "User",
+      "contributions": 2
+    },
+    {
+      "login": "pgte",
+      "id": 47910,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/47910?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/pgte",
+      "htmlUrl": "https://github.com/pgte",
+      "followersUrl": "https://api.github.com/users/pgte/followers",
+      "subscriptionsUrl": "https://api.github.com/users/pgte/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/pgte/orgs",
+      "reposUrl": "https://api.github.com/users/pgte/repos",
+      "receivedEventsUrl": "https://api.github.com/users/pgte/received_events",
+      "type": "User",
+      "contributions": 1
+    }
+  ],
+  "url": "/repos/ipfs/research-CRDT/contributors"
+}

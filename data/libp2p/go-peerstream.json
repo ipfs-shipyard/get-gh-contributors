@@ -3,7 +3,7 @@
     {
       "login": "jbenet",
       "id": 138401,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/138401?v=3",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/138401?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/jbenet",
       "htmlUrl": "https://github.com/jbenet",
@@ -18,7 +18,7 @@
     {
       "login": "whyrusleeping",
       "id": 1243164,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1243164?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1243164?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/whyrusleeping",
       "htmlUrl": "https://github.com/whyrusleeping",
@@ -28,12 +28,12 @@
       "reposUrl": "https://api.github.com/users/whyrusleeping/repos",
       "receivedEventsUrl": "https://api.github.com/users/whyrusleeping/received_events",
       "type": "User",
-      "contributions": 29
+      "contributions": 33
     },
     {
       "login": "btc",
       "id": 734339,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/734339?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/734339?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/btc",
       "htmlUrl": "https://github.com/btc",
@@ -46,9 +46,24 @@
       "contributions": 2
     },
     {
+      "login": "hsanjuan",
+      "id": 1027022,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/1027022?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/hsanjuan",
+      "htmlUrl": "https://github.com/hsanjuan",
+      "followersUrl": "https://api.github.com/users/hsanjuan/followers",
+      "subscriptionsUrl": "https://api.github.com/users/hsanjuan/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/hsanjuan/orgs",
+      "reposUrl": "https://api.github.com/users/hsanjuan/repos",
+      "receivedEventsUrl": "https://api.github.com/users/hsanjuan/received_events",
+      "type": "User",
+      "contributions": 2
+    },
+    {
       "login": "sqs",
       "id": 1976,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1976?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1976?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/sqs",
       "htmlUrl": "https://github.com/sqs",

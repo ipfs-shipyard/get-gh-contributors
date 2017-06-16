@@ -1,0 +1,35 @@
+{
+  "items": [
+    {
+      "login": "haadcode",
+      "id": 7499694,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/7499694?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/haadcode",
+      "htmlUrl": "https://github.com/haadcode",
+      "followersUrl": "https://api.github.com/users/haadcode/followers",
+      "subscriptionsUrl": "https://api.github.com/users/haadcode/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/haadcode/orgs",
+      "reposUrl": "https://api.github.com/users/haadcode/repos",
+      "receivedEventsUrl": "https://api.github.com/users/haadcode/received_events",
+      "type": "User",
+      "contributions": 94
+    },
+    {
+      "login": "greenkeeperio-bot",
+      "id": 14790466,
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/14790466?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/greenkeeperio-bot",
+      "htmlUrl": "https://github.com/greenkeeperio-bot",
+      "followersUrl": "https://api.github.com/users/greenkeeperio-bot/followers",
+      "subscriptionsUrl": "https://api.github.com/users/greenkeeperio-bot/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/greenkeeperio-bot/orgs",
+      "reposUrl": "https://api.github.com/users/greenkeeperio-bot/repos",
+      "receivedEventsUrl": "https://api.github.com/users/greenkeeperio-bot/received_events",
+      "type": "User",
+      "contributions": 5
+    }
+  ],
+  "url": "/repos/orbitdb/orbit-db-store/contributors"
+}

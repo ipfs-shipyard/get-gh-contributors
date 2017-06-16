@@ -1,0 +1,50 @@
+{
+  "items": [
+    {
+      "login": "Kubuxu",
+      "id": 2259282,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/2259282?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/Kubuxu",
+      "htmlUrl": "https://github.com/Kubuxu",
+      "followersUrl": "https://api.github.com/users/Kubuxu/followers",
+      "subscriptionsUrl": "https://api.github.com/users/Kubuxu/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/Kubuxu/orgs",
+      "reposUrl": "https://api.github.com/users/Kubuxu/repos",
+      "receivedEventsUrl": "https://api.github.com/users/Kubuxu/received_events",
+      "type": "User",
+      "contributions": 31
+    },
+    {
+      "login": "flyingzumwalt",
+      "id": 138930,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/138930?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/flyingzumwalt",
+      "htmlUrl": "https://github.com/flyingzumwalt",
+      "followersUrl": "https://api.github.com/users/flyingzumwalt/followers",
+      "subscriptionsUrl": "https://api.github.com/users/flyingzumwalt/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/flyingzumwalt/orgs",
+      "reposUrl": "https://api.github.com/users/flyingzumwalt/repos",
+      "receivedEventsUrl": "https://api.github.com/users/flyingzumwalt/received_events",
+      "type": "User",
+      "contributions": 8
+    },
+    {
+      "login": "jbenet",
+      "id": 138401,
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/138401?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/jbenet",
+      "htmlUrl": "https://github.com/jbenet",
+      "followersUrl": "https://api.github.com/users/jbenet/followers",
+      "subscriptionsUrl": "https://api.github.com/users/jbenet/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/jbenet/orgs",
+      "reposUrl": "https://api.github.com/users/jbenet/repos",
+      "receivedEventsUrl": "https://api.github.com/users/jbenet/received_events",
+      "type": "User",
+      "contributions": 2
+    }
+  ],
+  "url": "/repos/ipfs/distributed-wikipedia-mirror/contributors"
+}

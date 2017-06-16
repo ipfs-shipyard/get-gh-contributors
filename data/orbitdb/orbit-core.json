@@ -3,7 +3,7 @@
     {
       "login": "haadcode",
       "id": 7499694,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7499694?v=3",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/7499694?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/haadcode",
       "htmlUrl": "https://github.com/haadcode",
@@ -13,7 +13,7 @@
       "reposUrl": "https://api.github.com/users/haadcode/repos",
       "receivedEventsUrl": "https://api.github.com/users/haadcode/received_events",
       "type": "User",
-      "contributions": 73
+      "contributions": 80
     }
   ],
   "url": "/repos/orbitdb/orbit-core/contributors"

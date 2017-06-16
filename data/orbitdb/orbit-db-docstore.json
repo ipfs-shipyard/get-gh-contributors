@@ -1,9 +1,24 @@
 {
   "items": [
     {
+      "login": "haadcode",
+      "id": 7499694,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/7499694?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/haadcode",
+      "htmlUrl": "https://github.com/haadcode",
+      "followersUrl": "https://api.github.com/users/haadcode/followers",
+      "subscriptionsUrl": "https://api.github.com/users/haadcode/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/haadcode/orgs",
+      "reposUrl": "https://api.github.com/users/haadcode/repos",
+      "receivedEventsUrl": "https://api.github.com/users/haadcode/received_events",
+      "type": "User",
+      "contributions": 11
+    },
+    {
       "login": "shamb0t",
       "id": 2730657,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2730657?v=3",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/2730657?v=3",
       "gravatarId": "",
       "url": "https://api.github.com/users/shamb0t",
       "htmlUrl": "https://github.com/shamb0t",
@@ -14,21 +29,6 @@
       "receivedEventsUrl": "https://api.github.com/users/shamb0t/received_events",
       "type": "User",
       "contributions": 10
-    },
-    {
-      "login": "haadcode",
-      "id": 7499694,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7499694?v=3",
-      "gravatarId": "",
-      "url": "https://api.github.com/users/haadcode",
-      "htmlUrl": "https://github.com/haadcode",
-      "followersUrl": "https://api.github.com/users/haadcode/followers",
-      "subscriptionsUrl": "https://api.github.com/users/haadcode/subscriptions",
-      "organizationsUrl": "https://api.github.com/users/haadcode/orgs",
-      "reposUrl": "https://api.github.com/users/haadcode/repos",
-      "receivedEventsUrl": "https://api.github.com/users/haadcode/received_events",
-      "type": "User",
-      "contributions": 5
     }
   ],
   "url": "/repos/orbitdb/orbit-db-docstore/contributors"

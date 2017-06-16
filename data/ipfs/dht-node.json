@@ -1,0 +1,35 @@
+{
+  "items": [
+    {
+      "login": "whyrusleeping",
+      "id": 1243164,
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/1243164?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/whyrusleeping",
+      "htmlUrl": "https://github.com/whyrusleeping",
+      "followersUrl": "https://api.github.com/users/whyrusleeping/followers",
+      "subscriptionsUrl": "https://api.github.com/users/whyrusleeping/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/whyrusleeping/orgs",
+      "reposUrl": "https://api.github.com/users/whyrusleeping/repos",
+      "receivedEventsUrl": "https://api.github.com/users/whyrusleeping/received_events",
+      "type": "User",
+      "contributions": 9
+    },
+    {
+      "login": "lemmi",
+      "id": 2631530,
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/2631530?v=3",
+      "gravatarId": "",
+      "url": "https://api.github.com/users/lemmi",
+      "htmlUrl": "https://github.com/lemmi",
+      "followersUrl": "https://api.github.com/users/lemmi/followers",
+      "subscriptionsUrl": "https://api.github.com/users/lemmi/subscriptions",
+      "organizationsUrl": "https://api.github.com/users/lemmi/orgs",
+      "reposUrl": "https://api.github.com/users/lemmi/repos",
+      "receivedEventsUrl": "https://api.github.com/users/lemmi/received_events",
+      "type": "User",
+      "contributions": 1
+    }
+  ],
+  "url": "/repos/ipfs/dht-node/contributors"
+}
