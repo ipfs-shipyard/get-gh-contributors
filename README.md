@@ -1,4 +1,6 @@
 # get-gh-contributors
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fipfs%2Fget-gh-contributors.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fipfs%2Fget-gh-contributors?ref=badge_shield)
+
 
 > Fetch and serve our users and contributors data from github
 
@@ -60,3 +62,6 @@ Small note: If editing the README, please conform to the [standard-readme](https
 ## License
 
 [MIT](LICENSE) © 2017 Protocol Labs Inc.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fipfs%2Fget-gh-contributors.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fipfs%2Fget-gh-contributors?ref=badge_large)
